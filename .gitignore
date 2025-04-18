@@ -1,0 +1,9 @@
+__pycache__/
+.DS_Store
+.idea
+video_data/
+ergonomics-t5-finetuned
+ergonomics-t5-finetuned_base
+ergonomics-t5-finetuned_large
+high_risk_frames
+keywords
