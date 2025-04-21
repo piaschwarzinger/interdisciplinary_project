@@ -1,0 +1,94 @@
+[
+  {
+    "video_id": "video_01",
+    "target_text": "Seated at a table, the man appears to be focused on a task involving fine motor skills. His right upper arm stays elevated above shoulder level at times, placing stress on the joint. Meanwhile, both forearms adopt non-neutral positions, either overextended or overly flexed, suggesting muscular tension from sustained or precise hand activity."
+  },
+  {
+    "video_id": "video_02",
+    "target_text": "In this example, a man is engaged in tabletop work. His right upper arm rises above shoulder height, creating excess load on that joint. Both forearms are also seen in awkward postures, increasing the likelihood of arm fatigue."
+  },
+  {
+    "video_id": "video_03",
+    "target_text": "During a desk task, the individual frequently lifts his right upper arm above the shoulder, often abducting it and elevating the shoulder, which indicates substantial upper body strain. His forearms fluctuate between extended and flexed states, potentially inducing joint stress."
+  },
+  {
+    "video_id": "video_04",
+    "target_text": "Captured while standing and working, the man’s posture reveals significant neck flexion, as if looking down for extended periods. His torso also exhibits a combination of bending, twisting, and tilting, placing considerable load on the spine and back muscles."
+  },
+  {
+    "video_id": "video_05",
+    "target_text": "The footage shows a man standing and shifting positions in a room. His torso remains tilted sideways, with occasional rotation, potentially overloading one side of the back and promoting muscle fatigue."
+  },
+  {
+    "video_id": "video_06",
+    "target_text": "Amidst a cluttered environment, the man is leaning forward while performing a task. His trunk is bent between 20 to 60 degrees, a posture known to increase spinal compression and lower back strain."
+  },
+  {
+    "video_id": "video_07",
+    "target_text": "Leaning over a table, the man maintains both arms in elevated positions, which heightens shoulder strain. His trunk posture, featuring forward bending and lateral tilt with rotation, signals high spinal loading and potential lower back fatigue."
+  },
+  {
+    "video_id": "video_08",
+    "target_text": "While kneeling, the man lifts his left arm above shoulder height, and his torso leans forward between 20 and 60 degrees. These postures contribute to increased mechanical stress on both the shoulder and the spine."
+  },
+  {
+    "video_id": "video_09",
+    "target_text": "Working at a desk with a laptop, the individual exhibits raised arms and elevated shoulders, which stress the upper back and neck. Additionally, his trunk is bent forward and the forearms adopt suboptimal postures, raising ergonomic concerns."
+  },
+  {
+    "video_id": "video_10",
+    "target_text": "This recording shows a man seated comfortably at a laptop. All observed body parts are in neutral, ergonomically acceptable positions, and no physical risks are apparent."
+  },
+  {
+    "video_id": "video_11",
+    "target_text": "At his desk, the man is seated with both upper arms lifted above shoulder height and shoulders elevated and abducted, causing significant load on the trapezius and rotator cuff muscles. His forearms are poorly positioned, and the neck is extended, posing further ergonomic issues."
+  },
+  {
+    "video_id": "video_12",
+    "target_text": "Seen standing at a desk, the man’s posture reflects a well-aligned ergonomic position. The arms, trunk, and neck all appear balanced, with no notable risk factors present."
+  },
+  {
+    "video_id": "video_13",
+    "target_text": "While using a computer, the man’s head and upper back lean forward prominently. This posture imposes stress on both the cervical spine and the lower back."
+  },
+  {
+    "video_id": "video_14",
+    "target_text": "As he works at a table, the man demonstrates poor postural alignment. His forearms are overextended or overly bent, the neck shows multiple angles of strain, and the trunk is simultaneously bent, rotated, and tilted—creating cumulative ergonomic stress."
+  },
+  {
+    "video_id": "video_15",
+    "target_text": "Positioned at a table, the man’s left upper arm is notably elevated and abducted, indicating significant shoulder strain. Both forearms also appear to be in extended or flexed positions, which may lead to muscular fatigue over time."
+  },
+  {
+    "video_id": "video_16",
+    "target_text": "While seated in an office setting, the man raises his left arm far above shoulder level with additional elevation and abduction. These combined movements suggest high physical demand, complemented by forearm positions that are not ergonomically neutral."
+  },
+  {
+    "video_id": "video_17",
+    "target_text": "This footage shows a man standing over a table while deeply focused on a task. His neck is flexed downward, increasing cervical spine strain, and the trunk is bent significantly forward, contributing to potential lower back issues."
+  },
+  {
+    "video_id": "video_18",
+    "target_text": "Surrounded by boxes, the man stands with a sideways-tilted torso. This misalignment can cause muscular imbalance and fatigue, especially during repetitive actions."
+  },
+  {
+    "video_id": "video_19",
+    "target_text": "Amid boxes on the floor, the man adopts a bent-over stance with his trunk angled between 20 to 60 degrees. This forward-leaning position puts notable strain on the lower back and spine."
+  },
+  {
+    "video_id": "video_20",
+    "target_text": "Engaged in work at a table and later standing nearby, the man raises both arms above shoulder height, introducing shoulder joint stress. His trunk is severely flexed and rotated, forming a posture that elevates the risk of back strain."
+  },
+  {
+    "video_id": "video_21",
+    "target_text": "Kneeling amidst boxes, the man’s right arm is elevated above shoulder level while his trunk leans forward. This posture combination increases load on both the shoulder and the lower back."
+  },
+  {
+    "video_id": "video_22",
+    "target_text": "Here, a man sits at a desk using a laptop, with all observed body segments in a neutral and ergonomic posture. No intervention is necessary."
+  },
+  {
+    "video_id": "video_23",
+    "target_text": "While working at a desk, the man’s arms are moderately raised and shoulders elevated, which heightens tension in the upper body. The forearms are not in neutral alignment, and the trunk is bent forward, amplifying the ergonomic risk."
+  }
+]
