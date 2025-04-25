@@ -1,0 +1,617 @@
+[
+  {
+    "video_id":"video_01",
+    "prompt":"Caption: A man is seen lifting a heavy box from a conveyor belt in a workshop\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain).",
+    "output":"The video shows a man lifting a heavy box from a conveyor belt in a workshop. His upper arm is raised moderately above shoulder level, placing increased strain on the shoulder joint. Meanwhile, his neck is strongly flexed, causing significant muscular load. His trunk is also severely bent forward, posing a high risk of lower back strain."
+  },
+  {
+    "video_id":"video_02",
+    "prompt":"Caption: A woman is assembling machine parts\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).",
+    "output":"A woman is seen assembling machine parts. Her upper arm is raised far above shoulder level, suggesting overhead work and a high shoulder load. Additionally, her trunk is bent forward between 20 to 60 degrees, which increases spinal loading and strain."
+  },
+  {
+    "video_id":"video_03",
+    "prompt":"Caption: A man is fixing an industrial panel\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load), with abducted (Rotator cuff stress; joint instability).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).",
+    "output":"The footage captures a man fixing an industrial panel. His upper arm is far above shoulder level, indicating overhead work and high shoulder load, and it is also abducted, which can lead to rotator cuff stress and joint instability. His lower arm appears too extended or overly flexed, risking fatigue if maintained. Meanwhile, his trunk is tilted sideways, contributing to muscle imbalance and fatigue."
+  },
+  {
+    "video_id":"video_04",
+    "prompt":"Caption: A female worker leans over a production line\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).",
+    "output":"The scene shows a female worker leaning over a production line. Her upper arm is raised far above shoulder level, which places a high load on the shoulder and suggests overhead work."
+  },
+  {
+    "video_id":"video_05",
+    "prompt":"Caption: The footage shows a man standing on a step ladder\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"This clip depicts a man standing on a step ladder. His trunk is severely bent forward, posing a significant risk of lower back strain. Additionally, his upper arm is abducted, indicating stress on the rotator cuff and potential joint instability."
+  },
+  {
+    "video_id":"video_06",
+    "prompt":"Caption: A woman kneels next to a rolling cart\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint), with abducted (Rotator cuff stress; joint instability).\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine).",
+    "output":"A woman is kneeling beside a rolling cart while working. Her upper arm is moderately above shoulder level, increasing strain on the shoulder joint, and it is also abducted, further stressing the rotator cuff. Her trunk is severely bent forward and rotated, raising the torsional load on her spine and increasing the risk of lower back injuries."
+  },
+  {
+    "video_id":"video_07",
+    "prompt":"Caption: A male worker pulls a lever\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain).\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output":"The footage shows a male worker pulling a lever. His neck is side-bent, which may cause muscle imbalance and fatigue. Additionally, his trunk is severely bent forward, exposing him to a high risk of lower back strain, and he is standing on one leg, leading to asymmetric loading on the lower body."
+  },
+  {
+    "video_id":"video_08",
+    "prompt":"Caption: The scene captures a woman pushing a cart across the factory floor\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).",
+    "output":"This scene captures a woman pushing a cart across the factory floor. Her upper arm is moderately elevated above shoulder level, which increases shoulder strain. Her lower arm appears either too extended or overly flexed, potentially leading to fatigue. Furthermore, her trunk is bent forward between 20 to 60 degrees, resulting in increased spinal loading."
+  },
+  {
+    "video_id":"video_09",
+    "prompt":"Caption: A man tightens screws on a metallic sheet using a handheld drill\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).",
+    "output":"The video shows a man tightening screws on a metallic sheet using a handheld drill. His trunk is severely bent forward, posing a high risk of lower back strain. At the same time, his neck is strongly flexed, adding significant muscular load on the cervical spine."
+  },
+  {
+    "video_id":"video_10",
+    "prompt":"Caption: A woman stretches forward to inspect a malfunctioning control panel\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).",
+    "output":"In this clip, a woman stretches forward to inspect a malfunctioning control panel. Her upper arm is raised far above shoulder level, exposing her shoulder to a high load due to overhead work. Additionally, her lower arm is either too extended or overly flexed, which could cause muscular fatigue. Her trunk is tilted sideways, leading to muscle imbalance and additional strain."
+  },
+  {
+    "video_id":"video_11",
+    "prompt":"Caption: A technician looks over a circuit board\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).",
+    "output":"While examining a circuit board, the technician's trunk is tilted sideways, which may cause muscle imbalance and fatigue. Additionally, his neck is extended, increasing stress on the cervical spine."
+  },
+  {
+    "video_id":"video_12",
+    "prompt":"Caption: A woman reaches sideways to grab a part from a neighboring assembly bin\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint), with abducted (Rotator cuff stress; joint instability).",
+    "output":"As the woman reaches sideways to grab a part from a neighboring assembly bin, her legs bear an asymmetric load by standing on one leg. Her neck is strongly flexed, placing significant muscular strain, and her upper arm is moderately elevated above shoulder level and abducted, stressing both the shoulder joint and the rotator cuff."
+  },
+  {
+    "video_id":"video_13",
+    "prompt":"Caption: A man is filmed turning knobs on a large machine\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).",
+    "output":"The video shows a man turning knobs on a large machine. His upper arm is raised far above shoulder level, suggesting overhead work and high shoulder loading. His lower arm appears too extended or overly flexed, which could lead to fatigue if sustained."
+  },
+  {
+    "video_id":"video_14",
+    "prompt":"Caption: A female worker bends sideways to grab a dropped tool from the floor\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine).\nBody part: neck Risk factors: neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue).",
+    "output":"The footage captures a female worker bending sideways to grab a dropped tool. Her trunk is rotated, increasing the torsional load on her spine, while her neck is both extended and side-bent, compounding cervical stress and muscle imbalance."
+  },
+  {
+    "video_id":"video_15",
+    "prompt":"Caption: A man is seen using a wrench\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue).\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).",
+    "output":"While using a wrench, the man\u2019s trunk is severely bent forward and tilted sideways, exposing him to significant lower back strain and muscle imbalance. Meanwhile, his upper arm is moderately raised above shoulder level, increasing strain on the shoulder joint."
+  },
+  {
+    "video_id":"video_16",
+    "prompt":"Caption: A woman rests one arm on the table\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).",
+    "output":"Seated with one arm resting on the table, the woman\u2019s trunk is severely bent forward and tilted sideways, adding spinal load and imbalance. Her upper arm is far above shoulder level, indicating overhead exertion and a high shoulder load."
+  },
+  {
+    "video_id":"video_17",
+    "prompt":"Caption: The footage shows a man pulling a hose toward a hydraulic system\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output":"As the man pulls a hose toward a hydraulic system, his neck is extended, placing increased stress on the cervical spine. Additionally, he is standing on one leg, creating an asymmetric load on his lower body."
+  },
+  {
+    "video_id":"video_18",
+    "prompt":"Caption: A woman places an item behind her on a shelf\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).",
+    "output":"Placing an item behind her on a shelf, the woman\u2019s trunk is tilted sideways, which can cause muscular imbalance and fatigue. Her neck is extended as well, leading to added cervical spine stress."
+  },
+  {
+    "video_id":"video_19",
+    "prompt":"Caption: A male employee leans into a large tank\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).",
+    "output":"Leaning into a large tank, the male employee's trunk is rotated, increasing the torsional load on his spine. At the same time, his neck is strongly flexed, placing significant muscular strain on the cervical area."
+  },
+  {
+    "video_id":"video_20",
+    "prompt":"Caption: A woman is shown standing in a room full of boxes\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading), with rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).",
+    "output":"Surrounded by boxes, the woman is standing with her trunk bent forward between 20 to 60 degrees, rotated, and tilted sideways \u2014 a posture that places her spine under considerable torsional and muscular stress. Meanwhile, her upper arm is raised far above shoulder level, exposing the shoulder to high load due to overhead work."
+  },
+  {
+    "video_id":"video_21",
+    "prompt":"Caption: A man sits on a rolling stool\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading), with tilted sideways (leading to muscle imbalance and fatigue).",
+    "output":"Sitting on a rolling stool, the man\u2019s trunk is bent forward between 20 to 60 degrees and tilted sideways, stressing the lower back and causing muscle imbalance. Additionally, he is standing on one leg, leading to asymmetric loading on the lower body."
+  },
+  {
+    "video_id":"video_22",
+    "prompt":"Caption: A woman bends her knees to lift up a box\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"While bending her knees to lift a box, the woman\u2019s trunk is rotated, increasing torsional strain on the spine. Her neck is strongly flexed, adding significant muscular load, and her upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id":"video_23",
+    "prompt":"Caption: The scene captures a man adjusting overhead wires\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine).\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).",
+    "output":"The scene captures a man adjusting overhead wires. His trunk is rotated, increasing torsional stress on the spine, and his neck is extended, putting additional strain on the cervical region."
+  },
+  {
+    "video_id":"video_24",
+    "prompt":"Caption: A female employee stacks boxes onto a high shelf\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain).",
+    "output":"Stacking boxes onto a high shelf, the female employee's upper arm is moderately elevated above shoulder level, raising strain on the shoulder. At the same time, her trunk is severely bent forward, exposing her lower back to a high risk of strain."
+  },
+  {
+    "video_id":"video_25",
+    "prompt":"Caption: A man is observed dragging a large bin across a cluttered work zone\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).",
+    "output":"Dragging a large bin across a cluttered work zone, the man\u2019s lower arm is either too extended or overly flexed, which could cause fatigue if sustained. His upper arm is raised far above shoulder level, exposing it to a high load, and his neck is strongly flexed, adding significant muscular stress."
+  },
+  {
+    "video_id":"video_26",
+    "prompt":"Caption: A woman holds a clipboard in one hand\nBody part: neck Risk factors: neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue).",
+    "output":"Holding a clipboard in one hand, the woman\u2019s neck is extended and side-bent, which places stress on the cervical spine and may cause muscle imbalance and fatigue."
+  },
+  {
+    "video_id":"video_27",
+    "prompt":"Caption: The footage shows a man walking\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine).\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output":"As the man walks, his trunk is rotated, adding torsional stress to the spine, and he places asymmetric load on his lower body by standing on one leg."
+  },
+  {
+    "video_id":"video_28",
+    "prompt":"Caption: A woman sits on a chair working at a computer\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading), with rotated (increasing torsional load on the spine).\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output":"While seated and working at a computer, the woman\u2019s trunk is bent forward between 20 to 60 degrees and rotated, increasing both spinal loading and torsional strain. She also stands on one leg, creating an asymmetric load on the lower body."
+  },
+  {
+    "video_id":"video_29",
+    "prompt":"Caption: A man lifts a panel using both hands\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"Lifting a panel using both hands, the man\u2019s trunk is severely bent forward, exposing his lower back to a high risk of strain. His upper arm is abducted, which stresses the rotator cuff and may cause joint instability."
+  },
+  {
+    "video_id":"video_30",
+    "prompt":"Caption: A woman is seen walking quickly\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load), with side-bent (causing muscle imbalance and fatigue).\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine).",
+    "output":"As the woman walks quickly, her lower arm appears too extended or overly flexed, risking muscular fatigue. Her neck is strongly flexed and side-bent, adding both significant cervical strain and muscle imbalance, while her trunk is rotated, increasing spinal torsion."
+  },
+  {
+    "video_id":"video_31",
+    "prompt":"Caption: The clip shows a man reaching backward to grab a container off a rack\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).",
+    "output":"While reaching backward to grab a container off a rack, the man\u2019s upper arm is abducted, placing stress on the rotator cuff. His trunk is bent forward between 20 to 60 degrees, increasing the load on his spine."
+  },
+  {
+    "video_id":"video_32",
+    "prompt":"Caption: A female worker uses a lever to operate machinery\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).",
+    "output":"Operating machinery with a lever, the woman\u2019s trunk is tilted sideways, creating muscular imbalance, while her upper arm is moderately raised above shoulder level, increasing strain on the shoulder joint."
+  },
+  {
+    "video_id":"video_33",
+    "prompt":"Caption: A man kneels  to reach a part of a car\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading), with rotated (increasing torsional load on the spine).",
+    "output":"Kneeling to reach a part of a car, the man\u2019s trunk is bent forward between 20 to 60 degrees and rotated, which raises both spinal loading and torsional strain."
+  },
+  {
+    "video_id":"video_34",
+    "prompt":"Caption: A woman is seated at an office desk\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).",
+    "output":"While seated at an office desk, the woman\u2019s trunk is tilted sideways, causing muscle imbalance. Her neck is also side-bent, further adding to muscular asymmetry. Additionally, her lower arm is either too extended or overly flexed, risking fatigue, while her upper arm is raised far above shoulder level, indicating overhead strain."
+  },
+  {
+    "video_id":"video_35",
+    "prompt":"Caption: A male employee picks up boxes\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"As the male employee picks up boxes, he stands on one leg, creating an asymmetric load on the lower body. His neck is side-bent, leading to muscle imbalance, and his upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id":"video_36",
+    "prompt":"Caption: The footage shows a woman in a squatting position\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load), with abducted (Rotator cuff stress; joint instability).",
+    "output":"While in a squatting position, the woman\u2019s upper arm is raised far above shoulder level and abducted, both factors that expose her to a high shoulder load and increased rotator cuff stress."
+  },
+  {
+    "video_id":"video_37",
+    "prompt":"Caption: A man is tightening overhead bolts  a ratchet\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load), with abducted (Rotator cuff stress; joint instability).",
+    "output":"Tightening overhead bolts with a ratchet, the man\u2019s neck is extended, placing stress on the cervical spine. His upper arm is raised far above shoulder level and abducted, increasing the load on the shoulder and rotator cuff."
+  },
+  {
+    "video_id":"video_38",
+    "prompt":"Caption: A woman writes on her computer\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).",
+    "output":"As the woman writes on her computer, her lower arm is either too extended or overly flexed, risking muscular fatigue. She is also standing on one leg, causing asymmetric load on the lower body, and her trunk is bent forward between 20 to 60 degrees, increasing spinal strain."
+  },
+  {
+    "video_id":"video_39",
+    "prompt":"Caption: A man draggs a pallet accross the factory floor\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).",
+    "output":"Dragging a pallet across the factory floor, the man\u2019s trunk is tilted sideways, causing muscle imbalance, and his neck is strongly flexed, placing significant load on the cervical spine."
+  },
+  {
+    "video_id":"video_40",
+    "prompt":"Caption: A woman assembles something\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load), with abducted (Rotator cuff stress; joint instability).",
+    "output":"While assembling components, the woman\u2019s trunk is bent forward between 20 to 60 degrees, adding spinal loading. Her neck is strongly flexed, increasing cervical strain. Meanwhile, her upper arm is raised far above shoulder level and abducted, placing a high load on the shoulder and stressing the rotator cuff."
+  },
+  {
+    "video_id":"video_41",
+    "prompt":"Caption: A man stands at his standing desk \nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).",
+    "output":"Standing at his desk, the man\u2019s neck is side-bent, leading to muscle imbalance and fatigue. His upper arm is abducted, stressing the rotator cuff, and his trunk is bent forward between 20 to 60 degrees, increasing spinal loading."
+  },
+  {
+    "video_id":"video_42",
+    "prompt":"Caption: A woman adjusts knobs on a wall-mounted unit\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading), with rotated (increasing torsional load on the spine).",
+    "output":"Adjusting knobs on a wall-mounted unit, the woman\u2019s upper arm is abducted, placing stress on the rotator cuff. Her trunk is bent forward between 20 to 60 degrees and rotated, increasing both spinal loading and torsional strain."
+  },
+  {
+    "video_id":"video_43",
+    "prompt":"Caption: A male worker makes coffee\nBody part: neck Risk factors: neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue).",
+    "output":"While making coffee, the man's neck is extended and side-bent, resulting in increased cervical spine stress and muscular imbalance."
+  },
+  {
+    "video_id":"video_44",
+    "prompt":"Caption: A woman stands on a narrow ledge to reach a high component\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).",
+    "output":"Standing on a narrow ledge to reach a high component, the woman\u2019s neck is extended, raising cervical spine stress, while her upper arm is raised far above shoulder level, indicating overhead work and a high shoulder load."
+  },
+  {
+    "video_id":"video_45",
+    "prompt":"Caption: A technician is shown twisting cables into place behind a large machine\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue).\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).",
+    "output":"Twisting cables into place behind a large machine, the technician\u2019s trunk is severely bent forward and tilted sideways, exposing him to lower back strain and muscular imbalance. His upper arm is raised moderately above shoulder level, adding strain to the shoulder joint."
+  },
+  {
+    "video_id":"video_46",
+    "prompt":"Caption: A woman sits  one leg propped up\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).",
+    "output":"Sitting with one leg propped up, the woman\u2019s posture shows asymmetric loading on the lower body. Her trunk is rotated and tilted sideways, raising both torsional and muscular strain, while her upper arm is raised far above shoulder level, exposing the shoulder to high load."
+  },
+  {
+    "video_id":"video_47",
+    "prompt":"Caption: A man is standing at a copier machine.\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading), with tilted sideways (leading to muscle imbalance and fatigue).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output":"Standing at a copier machine, the man\u2019s trunk is bent forward between 20 to 60 degrees and tilted sideways, increasing spinal load and causing muscle imbalance. His upper arm is abducted, stressing the rotator cuff, and he is standing on one leg, leading to asymmetric loading."
+  },
+  {
+    "video_id":"video_48",
+    "prompt":"Caption: A woman is organizing papers on a desk.\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).",
+    "output":"While organizing papers on a desk, the woman\u2019s upper arm is abducted, placing stress on the rotator cuff. Additionally, her neck is strongly flexed, increasing muscular strain on the cervical spine."
+  },
+  {
+    "video_id":"video_49",
+    "prompt":"Caption: A man is entering a meeting room.\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine).",
+    "output":"Entering a meeting room, the man\u2019s upper arm is abducted, stressing the rotator cuff, while his lower arm is too extended or overly flexed, risking fatigue. His trunk is severely bent forward and rotated, increasing both spinal loading and torsional strain."
+  },
+  {
+    "video_id":"video_50",
+    "prompt":"Caption: A woman is standing at a desk monitor.\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).",
+    "output":"Standing at a desk monitor, the woman\u2019s legs bear asymmetric load from standing on one leg. Her neck is extended, raising cervical spine stress, and her lower arm appears too extended or overly flexed, which could cause fatigue."
+  },
+  {
+    "video_id":"video_51",
+    "prompt":"Caption: A man lifts a heavy crate using both hands\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain).\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).",
+    "output":"While lifting a heavy crate with both hands, the man\u2019s upper arm is raised far above shoulder level, indicating overhead work and shoulder load. He is standing on one leg, creating asymmetric load on the lower body, and his trunk is severely bent forward, exposing his lower back to strain. His neck is side-bent, contributing to muscular imbalance."
+  },
+  {
+    "video_id":"video_52",
+    "prompt":"Caption: A woman turns her neck sharply to monitor a control screen behind her\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).",
+    "output":"Turning her neck sharply to monitor a control screen behind her, the woman\u2019s neck is extended, increasing cervical spine stress. Her upper arm is moderately raised above shoulder level, placing additional load on the shoulder joint."
+  },
+  {
+    "video_id":"video_53",
+    "prompt":"Caption: A man is plugging a cable into a computer.\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine).\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"Plugging a cable into a computer, the man\u2019s trunk is severely bent forward and rotated, raising spinal and torsional strain. His neck is side-bent, leading to muscle imbalance, and his upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id":"video_54",
+    "prompt":"Caption: A woman pushes open a heavy safety door using her shoulder\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine).",
+    "output":"As the woman pushes open a heavy safety door with her shoulder, her upper arm is raised far above shoulder level, indicating overhead load. Her trunk is rotated, placing additional torsional stress on the spine."
+  },
+  {
+    "video_id":"video_55",
+    "prompt":"Caption: A woman is placing office supplies into a drawer.\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).",
+    "output":"While placing office supplies into a drawer, the woman\u2019s trunk is severely bent forward, exposing her lower back to high strain. Her upper arm is raised far above shoulder level, increasing shoulder load due to overhead work."
+  },
+  {
+    "video_id":"video_56",
+    "prompt":"Caption: A woman places a box on a shelf\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).",
+    "output":"Placing a box on a shelf, the woman extends her neck, increasing cervical spine stress. Meanwhile, her upper arm is raised far above shoulder level, exposing her shoulder to a high load."
+  },
+  {
+    "video_id":"video_57",
+    "prompt":"Caption: A man is checking his phone.\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).",
+    "output":"Checking his phone, the man\u2019s posture reveals several risks: his trunk is severely bent forward and tilted sideways, leading to spinal strain and muscular imbalance. His neck is strongly flexed, adding significant cervical load, and he is standing on one leg, creating asymmetric loading."
+  },
+  {
+    "video_id":"video_58",
+    "prompt":"Caption: A woman is adjusting a chair.\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading), with rotated (increasing torsional load on the spine).",
+    "output":"While adjusting a chair, the woman\u2019s neck is side-bent, causing muscular imbalance. She stands on one leg, creating asymmetric load, and her trunk is bent forward between 20 to 60 degrees and rotated, which increases spinal loading and torsional strain."
+  },
+  {
+    "video_id":"video_59",
+    "prompt":"Caption: A man presses hard on a stuck button\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output":"Pressing hard on a stuck button, the man\u2019s lower arm is too extended or overly flexed, risking fatigue. He is also standing on one leg, leading to asymmetric load on the lower body."
+  },
+  {
+    "video_id":"video_60",
+    "prompt":"Caption: A janitor is mopping the office hallway.\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).",
+    "output":"While mopping the office hallway, the janitor\u2019s trunk tilts sideways, leading to muscle imbalance, and his upper arm is raised far above shoulder level, causing high shoulder load."
+  },
+  {
+    "video_id":"video_61",
+    "prompt":"Caption: A receptionist is answering a phone at the front desk.\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).\nBody part: neck Risk factors: neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).",
+    "output":"Answering the phone at the front desk, the receptionist's trunk is tilted sideways, which may cause muscular imbalance. Her neck is both extended and side-bent, leading to cervical spine stress and imbalance, and her lower arm is too extended or overly flexed, risking fatigue."
+  },
+  {
+    "video_id":"video_62",
+    "prompt":"Caption: A woman grabs multiple tools at once\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).",
+    "output":"While grabbing multiple tools at once, the woman\u2019s trunk tilts sideways, adding to muscle imbalance. Simultaneously, her upper arm is raised far above shoulder level, increasing shoulder load."
+  },
+  {
+    "video_id":"video_63",
+    "prompt":"Caption: A cleaning staff member is wiping down a conference table.\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).",
+    "output":"Wiping down a conference table, the cleaner\u2019s neck is extended, leading to cervical spine stress, and her lower arm is too extended or overly flexed, which can cause muscular fatigue."
+  },
+  {
+    "video_id":"video_64",
+    "prompt":"Caption: A worker is replacing a ceiling tile.\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue).",
+    "output":"Replacing a ceiling tile, the worker\u2019s trunk is severely bent forward and tilted sideways, a posture that creates a high risk of lower back strain and muscular imbalance."
+  },
+  {
+    "video_id":"video_65",
+    "prompt":"Caption: A receptionist is scanning documents.\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"While scanning documents, the receptionist\u2019s legs are asymmetrically loaded from standing on one leg, and her upper arm is abducted, placing stress on the rotator cuff."
+  },
+  {
+    "video_id":"video_66",
+    "prompt":"Caption: A technician is replacing a conveyor belt sensor.\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: trunk Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).",
+    "output":"Adjusting a conveyor belt sensor, the technician\u2019s trunk is bent forward between 20 to 60 degrees, increasing spinal loading, while his lower arm is too extended or overly flexed, risking fatigue."
+  },
+  {
+    "video_id":"video_67",
+    "prompt":"Caption: A staff member is securing straps around a large package.\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load), with abducted (Rotator cuff stress; joint instability).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).",
+    "output":"Securing straps around a large package, the staff member raises the upper arm far above shoulder level and abducts it, which places substantial load on the shoulder and stresses the rotator cuff. Meanwhile, the neck is strongly flexed, adding cervical muscular load."
+  },
+  {
+    "video_id":"video_68",
+    "prompt":"Caption: A worker is unlocking a tool cabinet.\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).",
+    "output":"Unlocking a tool cabinet, the worker\u2019s upper arm is moderately raised above shoulder level, placing strain on the shoulder joint, while her neck is side-bent, creating muscle imbalance."
+  },
+  {
+    "video_id":"video_69",
+    "prompt":"Caption: An employee is removing debris from a machine filter.\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load), with side-bent (causing muscle imbalance and fatigue).",
+    "output":"Removing debris from a machine filter, the employee\u2019s upper arm is raised far above shoulder level, causing overhead load on the shoulder. Her neck is strongly flexed and side-bent, increasing cervical strain and muscular imbalance."
+  },
+  {
+    "video_id":"video_70",
+    "prompt":"Caption: A technician is checking pressure levels on a gauge.\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output":"Checking pressure levels on a gauge, the technician\u2019s upper arm is abducted, stressing the rotator cuff, while standing on one leg adds asymmetric loading to the lower body."
+  },
+  {
+    "video_id":"video_71",
+    "prompt":"Caption: An employee is flipping a switch on an equipment panel.\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).",
+    "output":"Flipping a switch on an equipment panel, the employee stands on one leg, creating asymmetric load. His neck is strongly flexed, placing significant muscular strain, and his upper arm is raised moderately above shoulder level, adding strain to the shoulder joint."
+  },
+  {
+    "video_id":"video_72",
+    "prompt":"Caption: A technician is measuring components with a caliper.\nBody part: legs Risk factors: standing on one leg (asymmetric load on lower body).\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).",
+    "output":"Measuring components with a caliper, the technician stands on one leg, causing asymmetric lower body loading, while the upper arm is moderately raised above shoulder level, stressing the shoulder joint."
+  },
+  {
+    "video_id":"video_73",
+    "prompt":"Caption: A staff member is disconnecting wires from a terminal.\nBody part: neck Risk factors: neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue).\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).",
+    "output":"While disconnecting wires from a terminal, the staff member\u2019s neck is extended and side-bent, placing stress on the cervical spine and causing muscular imbalance. Her trunk is also tilted sideways, adding further strain."
+  },
+  {
+    "video_id":"video_74",
+    "prompt":"Caption: A worker is inspecting parts under a magnifying lamp.\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine).",
+    "output":"Inspecting parts under a magnifying lamp, the worker\u2019s neck is side-bent, leading to muscle imbalance. His trunk is severely bent forward and rotated, increasing both spinal and torsional strain."
+  },
+  {
+    "video_id":"video_75",
+    "prompt":"Caption: An employee is placing finished items on a shelf.\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).",
+    "output":"While placing finished items on a shelf, the employee\u2019s neck is strongly flexed, exposing the cervical spine to significant muscular load."
+  },
+  {
+    "video_id":"video_76",
+    "prompt":"Caption: A staff member is cleaning safety goggles.\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue).",
+    "output":"Cleaning safety goggles, the staff member\u2019s trunk is both rotated and tilted sideways, leading to torsional stress and muscular imbalance."
+  },
+  {
+    "video_id":"video_77",
+    "prompt":"Caption: A worker is restocking supply bins.\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).",
+    "output":"Restocking supply bins, the worker\u2019s upper arm is moderately raised above shoulder level, increasing shoulder strain, while the lower arm is too extended or overly flexed, risking fatigue."
+  },
+  {
+    "video_id":"video_78",
+    "prompt":"Caption: An employee is folding protective aprons.\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).",
+    "output":"Folding protective aprons, the employee\u2019s trunk is tilted sideways, causing muscular imbalance, and her neck is side-bent, adding to the postural strain."
+  },
+  {
+    "video_id":"video_79",
+    "prompt":"Caption: A technician is routing cables through cable trays.\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine).",
+    "output":"While routing cables through trays, the technician\u2019s upper arm is moderately raised above shoulder level, increasing shoulder strain. His neck is extended, adding cervical load, while his trunk is severely bent forward and rotated, leading to significant spinal stress."
+  },
+  {
+    "video_id":"video_80",
+    "prompt":"Caption: A staff member is reviewing floor schematics.\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain).",
+    "output":"Reviewing floor schematics, the staff member\u2019s upper arm is raised far above shoulder level, exposing the shoulder to high load, while his trunk is severely bent forward, risking lower back strain."
+  },
+  {
+    "video_id":"video_81",
+    "prompt":"Caption: A worker is tightening screws on a small motor.\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint), with abducted (Rotator cuff stress; joint instability).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).",
+    "output":"Tightening screws on a small motor, the worker\u2019s upper arm is moderately raised above shoulder level and abducted, stressing both the shoulder joint and rotator cuff. His neck is strongly flexed, increasing cervical spine load."
+  },
+  {
+    "video_id":"video_82",
+    "prompt":"Caption: An employee is cleaning a touchscreen interface.\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).\nBody part: upper arm Risk factors: far above shoulder level (overhead work; high shoulder load).\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).",
+    "output":"Cleaning a touchscreen interface, the employee\u2019s neck is strongly flexed, placing significant strain on the cervical spine. Her upper arm is raised far above shoulder level, and her trunk is tilted sideways, leading to muscular imbalance."
+  },
+  {
+    "video_id":"video_83",
+    "prompt":"Caption: A machine operator is inserting raw parts into a press.\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"Inserting raw parts into a press, the machine operator\u2019s trunk is severely bent forward and tilted sideways, leading to lower back and muscular strain. Her neck is strongly flexed, and her upper arm is abducted, adding stress to the rotator cuff."
+  },
+  {
+    "video_id":"video_84",
+    "prompt":"Caption: A staff member is closing a shipping container.\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"Closing a shipping container, the staff member\u2019s trunk is rotated, creating torsional stress, while her neck is strongly flexed and her upper arm is abducted, leading to combined spinal and shoulder strain."
+  },
+  {
+    "video_id":"video_85",
+    "prompt":"Caption: A staff member is aligning brackets during assembly.\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).",
+    "output":"Aligning brackets during assembly, the staff member\u2019s trunk is rotated, increasing torsional spinal load, while her lower arm is either too extended or overly flexed, risking muscular fatigue."
+  },
+  {
+    "video_id":"video_86",
+    "prompt":"Caption: A worker is unrolling wire from a spool.\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain).\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).",
+    "output":"Unrolling wire from a spool, the worker\u2019s trunk is severely bent forward, exposing the lower back to high strain. His neck is extended, stressing the cervical spine, and his upper arm is moderately raised above shoulder level, increasing shoulder load."
+  },
+  {
+    "video_id":"video_87",
+    "prompt":"Caption: An employee is replacing gloves from a dispenser.\nBody part: trunk Risk factors: severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).",
+    "output":"Replacing gloves from a dispenser, the employee\u2019s trunk is severely bent forward, rotated, and tilted sideways, leading to combined lower back, torsional, and muscular strain. His lower arm is too extended or overly flexed, risking fatigue."
+  },
+  {
+    "video_id":"video_88",
+    "prompt":"Caption: A technician is inspecting weld joints for defects.\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint), with abducted (Rotator cuff stress; joint instability).\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).",
+    "output":"Inspecting weld joints for defects, the technician\u2019s upper arm is moderately raised above shoulder level and abducted, stressing the shoulder and rotator cuff, while his neck is extended, adding cervical spine stress."
+  },
+  {
+    "video_id":"video_89",
+    "prompt":"Caption: A staff member is adjusting a laser cutter tray.\nBody part: neck Risk factors: neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue).",
+    "output":"Adjusting a laser cutter tray, the staff member\u2019s neck is extended and side-bent, contributing to cervical strain and muscular imbalance."
+  },
+  {
+    "video_id":"video_90",
+    "prompt":"Caption: A worker is organizing power tools in a drawer.\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue).",
+    "output":"Organizing power tools in a drawer, the worker\u2019s trunk is rotated and tilted sideways, placing both torsional and muscular strain on the spine."
+  },
+  {
+    "video_id":"video_91",
+    "prompt":"Caption: An employee is pushing a bin through the production area.\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue).\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"Pushing a bin through the production area, the employee\u2019s trunk is rotated and tilted sideways, creating torsional stress and muscular imbalance. His neck is side-bent, adding further strain, and his upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id":"video_92",
+    "prompt":"Caption: A technician is logging in to a workstation.\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"Logging in to a workstation, the technician\u2019s neck is side-bent, causing muscle imbalance, while the upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id":"video_93",
+    "prompt":"Caption: A staff member is removing scrap from the floor.\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).\nBody part: neck Risk factors: neck extension (increasing cervical spine stress).",
+    "output":"Removing scrap from the floor, the staff member\u2019s trunk tilts sideways, leading to muscular imbalance, while the neck is extended, placing stress on the cervical spine."
+  },
+  {
+    "video_id":"video_94",
+    "prompt":"Caption: A worker is applying labels to boxes.\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine).\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint).",
+    "output":"Applying labels to boxes, the worker\u2019s trunk is rotated, increasing torsional stress, and the upper arm is moderately raised above shoulder level, leading to shoulder strain."
+  },
+  {
+    "video_id":"video_95",
+    "prompt":"Caption: An employee is loading heavy items onto a dolly.\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue).",
+    "output":"Loading heavy items onto a dolly, the employee\u2019s lower arm is too extended or overly flexed, risking fatigue. His neck is strongly flexed, adding cervical strain, and his trunk is rotated and tilted sideways, increasing spinal and muscular stress."
+  },
+  {
+    "video_id":"video_96",
+    "prompt":"Caption: A technician is reattaching a machine panel.\nBody part: trunk Risk factors: tilted sideways (leading to muscle imbalance and fatigue).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"Reattaching a machine panel, the technician\u2019s trunk is tilted sideways, causing imbalance, while the neck is strongly flexed, adding cervical strain. His lower arm is too extended or overly flexed, and his upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id":"video_97",
+    "prompt":"Caption: A staff member is updating inventory software.\nBody part: trunk Risk factors: rotated (increasing torsional load on the spine).\nBody part: upper arm Risk factors: moderately above shoulder level (increased strain on shoulder joint), with abducted (Rotator cuff stress; joint instability).",
+    "output":"Updating inventory software, the staff member\u2019s trunk is rotated, leading to torsional spinal stress. Meanwhile, the upper arm is moderately elevated and abducted, increasing shoulder joint and rotator cuff strain."
+  },
+  {
+    "video_id":"video_98",
+    "prompt":"Caption: A worker is measuring pipe segments on a table.\nBody part: neck Risk factors: strongly flexed (causing significant muscular load), with side-bent (causing muscle imbalance and fatigue).\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).",
+    "output":"Measuring pipe segments, the worker\u2019s neck is both strongly flexed and side-bent, placing significant load on the cervical spine, while the lower arm is too extended or overly flexed, risking muscular fatigue."
+  },
+  {
+    "video_id":"video_99",
+    "prompt":"Caption: An employee is stacking filled containers by height.\nBody part: neck Risk factors: strongly flexed (causing significant muscular load).\nBody part: upper arm Risk factors: abducted (Rotator cuff stress; joint instability).",
+    "output":"Stacking filled containers by height, the employee\u2019s neck is strongly flexed, stressing the cervical spine, and the upper arm is abducted, adding strain to the rotator cuff."
+  },
+  {
+    "video_id":"video_100",
+    "prompt":"Caption: A technician is wiping off a lens on inspection equipment.\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load), with side-bent (causing muscle imbalance and fatigue).",
+    "output":"Wiping off a lens on inspection equipment, the technician\u2019s lower arm is too extended or overly flexed, risking muscular fatigue. His neck is strongly flexed and side-bent, leading to cervical strain and muscle imbalance."
+  },
+  {
+    "video_id":"video_101",
+    "prompt":"Caption: A staff member is changing out a safety sign.\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: neck Risk factors: strongly flexed (causing significant muscular load), with side-bent (causing muscle imbalance and fatigue).",
+    "output":"Changing out a safety sign, the staff member\u2019s lower arm is too extended or overly flexed, risking fatigue, and the neck is strongly flexed and side-bent, contributing to cervical stress and muscle imbalance."
+  },
+  {
+    "video_id":"video_102",
+    "prompt":"Caption: A worker is lowering a mechanical lift with a control panel.\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).",
+    "output":"Lowering a mechanical lift with a control panel, the worker\u2019s lower arm is too extended or overly flexed, while the neck is side-bent, creating muscle imbalance."
+  },
+  {
+    "video_id":"video_103",
+    "prompt":"Caption: A staff member is welding two metal frames together.\nBody part: lower arm Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).",
+    "output":"Welding two metal frames together, the staff member\u2019s lower arm is too extended or overly flexed, leading to muscular fatigue, while the neck is side-bent, causing muscle imbalance."
+  },
+  {
+    "video_id":"video_104",
+    "prompt":"Caption: A worker is organizing tools on a wall-mounted rack.\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).",
+    "output":"Organizing tools on a wall-mounted rack, the worker\u2019s neck is side-bent, a posture that can cause muscular imbalance and fatigue."
+  },
+  {
+    "video_id":"video_105",
+    "prompt":"Caption: An employee is carrying a toolbox across the factory floor.\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).",
+    "output":"Carrying a toolbox across the factory floor, the employee\u2019s neck is side-bent, creating muscular asymmetry and potential strain."
+  },
+  {
+    "video_id":"video_106",
+    "prompt":"Caption: A machine operator is pressing a control button on a console.\nBody part: neck Risk factors: side-bent (causing muscle imbalance and fatigue).",
+    "output":"Pressing a control button on a console, the machine operator\u2019s neck is side-bent, leading to muscular imbalance."
+  },
+  {
+    "video_id":"video_107",
+    "prompt":"Caption: A worker is wrapping finished products in protective film.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Wrapping finished products in protective film, the worker maintains acceptable ergonomic conditions across the neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id":"video_108",
+    "prompt":"Caption: A technician is lifting a machine panel for inspection.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Lifting a machine panel for inspection, the technician demonstrates acceptable ergonomic posture for the neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id":"video_109",
+    "prompt":"Caption: An employee is aligning parts on an assembly jig.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Aligning parts on an assembly jig, the employee shows acceptable ergonomic conditions across all monitored body parts."
+  },
+  {
+    "video_id":"video_110",
+    "prompt":"Caption: A worker is opening a supply cabinet.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Opening a supply cabinet, the worker maintains acceptable ergonomic conditions for the neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id":"video_111",
+    "prompt":"Caption: A woman is walking along a production line.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Walking along a production line, the woman exhibits acceptable posture across her neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id":"video_112",
+    "prompt":"Caption: A man is removing a part from the inspection table.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Removing a part from the inspection table, the man maintains acceptable ergonomic conditions with no need for corrective measures."
+  },
+  {
+    "video_id":"video_113",
+    "prompt":"Caption: A woman is loading packaging materials into a dispenser.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Loading packaging materials into a dispenser, the woman\u2019s posture is ergonomically acceptable across all observed body parts."
+  },
+  {
+    "video_id":"video_114",
+    "prompt":"Caption: A woman is flipping switches on a large control board.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Flipping switches on a large control board, the woman maintains acceptable ergonomic posture with no evident risk factors."
+  },
+  {
+    "video_id":"video_115",
+    "prompt":"Caption: A man is scanning components with a barcode reader.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Scanning components with a barcode reader, the man exhibits acceptable conditions across his neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id":"video_116",
+    "prompt":"Caption: A woman is sweeping debris into a dustpan.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Sweeping debris into a dustpan, the woman demonstrates ergonomically acceptable posture in all monitored regions."
+  },
+  {
+    "video_id":"video_117",
+    "prompt":"Caption: A man is applying a tracking tag to a finished unit.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Applying a tracking tag to a finished unit, the man shows acceptable posture throughout the neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id":"video_118",
+    "prompt":"Caption: A woman is organizing manuals on a storage rack.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Organizing manuals on a storage rack, the woman maintains acceptable ergonomic conditions with no need for intervention."
+  },
+  {
+    "video_id":"video_119",
+    "prompt":"Caption: A man is replacing tubing in a mechanical system.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Replacing tubing in a mechanical system, the man\u2019s posture across all body parts is ergonomically acceptable."
+  },
+  {
+    "video_id":"video_120",
+    "prompt":"Caption: A woman is placing documents into a folder.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Placing documents into a folder, the woman exhibits acceptable ergonomic posture with no identified risks."
+  },
+  {
+    "video_id":"video_121",
+    "prompt":"Caption: A man is rolling a tool cart to the next station.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Rolling a tool cart to the next station, the man\u2019s posture remains within acceptable ergonomic limits."
+  },
+  {
+    "video_id":"video_122",
+    "prompt":"Caption: A women is working with a laptop at a standing desk\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Working with a laptop at a standing desk, the woman shows acceptable ergonomic conditions for the neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id":"video_123",
+    "prompt":"Caption: A woman is walking across the workshop with a clipboard.\nBody part: upper arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm Risk factors: Acceptable conditions, no need for further measures.\nBody part: leg Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk Risk factors: Acceptable conditions, no need for further measures.",
+    "output":"Walking across the workshop with a clipboard, the woman maintains acceptable posture across all observed body parts."
+  }
+]

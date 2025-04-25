@@ -1,0 +1,495 @@
+[
+   {
+    "video_id": "video_01",
+    "target_text": "The video shows a man lifting a heavy box from a conveyor belt in a workshop. His upper arm is raised moderately above shoulder level, placing increased strain on the shoulder joint. Meanwhile, his neck is strongly flexed, causing significant muscular load. His trunk is also severely bent forward, posing a high risk of lower back strain."
+  },
+  {
+    "video_id": "video_02",
+    "target_text": "A woman is seen assembling machine parts. Her upper arm is raised far above shoulder level, suggesting overhead work and a high shoulder load. Additionally, her trunk is bent forward between 20 to 60 degrees, which increases spinal loading and strain."
+  },
+  {
+    "video_id": "video_03",
+    "target_text": "The footage captures a man fixing an industrial panel. His upper arm is far above shoulder level, indicating overhead work and high shoulder load, and it is also abducted, which can lead to rotator cuff stress and joint instability. His lower arm appears too extended or overly flexed, risking fatigue if maintained. Meanwhile, his trunk is tilted sideways, contributing to muscle imbalance and fatigue."
+  },
+  {
+    "video_id": "video_04",
+    "target_text": "The scene shows a female worker leaning over a production line. Her upper arm is raised far above shoulder level, which places a high load on the shoulder and suggests overhead work."
+  },
+  {
+    "video_id": "video_05",
+    "target_text": "This clip depicts a man standing on a step ladder. His trunk is severely bent forward, posing a significant risk of lower back strain. Additionally, his upper arm is abducted, indicating stress on the rotator cuff and potential joint instability."
+  },
+  {
+    "video_id": "video_06",
+    "target_text": "A woman is kneeling beside a rolling cart while working. Her upper arm is moderately above shoulder level, increasing strain on the shoulder joint, and it is also abducted, further stressing the rotator cuff. Her trunk is severely bent forward and rotated, raising the torsional load on her spine and increasing the risk of lower back injuries."
+  },
+  {
+    "video_id": "video_07",
+    "target_text": "The footage shows a male worker pulling a lever. His neck is side-bent, which may cause muscle imbalance and fatigue. Additionally, his trunk is severely bent forward, exposing him to a high risk of lower back strain, and he is standing on one leg, leading to asymmetric loading on the lower body."
+  },
+  {
+    "video_id": "video_08",
+    "target_text": "This scene captures a woman pushing a cart across the factory floor. Her upper arm is moderately elevated above shoulder level, which increases shoulder strain. Her lower arm appears either too extended or overly flexed, potentially leading to fatigue. Furthermore, her trunk is bent forward between 20 to 60 degrees, resulting in increased spinal loading."
+  },
+  {
+    "video_id": "video_09",
+    "target_text": "The video shows a man tightening screws on a metallic sheet using a handheld drill. His trunk is severely bent forward, posing a high risk of lower back strain. At the same time, his neck is strongly flexed, adding significant muscular load on the cervical spine."
+  },
+  {
+    "video_id": "video_10",
+    "target_text": "In this clip, a woman stretches forward to inspect a malfunctioning control panel. Her upper arm is raised far above shoulder level, exposing her shoulder to a high load due to overhead work. Additionally, her lower arm is either too extended or overly flexed, which could cause muscular fatigue. Her trunk is tilted sideways, leading to muscle imbalance and additional strain."
+  },
+
+{
+    "video_id": "video_11",
+    "target_text": "While examining a circuit board, the technician's trunk is tilted sideways, which may cause muscle imbalance and fatigue. Additionally, his neck is extended, increasing stress on the cervical spine."
+  },
+  {
+    "video_id": "video_12",
+    "target_text": "As the woman reaches sideways to grab a part from a neighboring assembly bin, her legs bear an asymmetric load by standing on one leg. Her neck is strongly flexed, placing significant muscular strain, and her upper arm is moderately elevated above shoulder level and abducted, stressing both the shoulder joint and the rotator cuff."
+  },
+  {
+    "video_id": "video_13",
+    "target_text": "The video shows a man turning knobs on a large machine. His upper arm is raised far above shoulder level, suggesting overhead work and high shoulder loading. His lower arm appears too extended or overly flexed, which could lead to fatigue if sustained."
+  },
+  {
+    "video_id": "video_14",
+    "target_text": "The footage captures a female worker bending sideways to grab a dropped tool. Her trunk is rotated, increasing the torsional load on her spine, while her neck is both extended and side-bent, compounding cervical stress and muscle imbalance."
+  },
+  {
+    "video_id": "video_15",
+    "target_text": "While using a wrench, the man’s trunk is severely bent forward and tilted sideways, exposing him to significant lower back strain and muscle imbalance. Meanwhile, his upper arm is moderately raised above shoulder level, increasing strain on the shoulder joint."
+  },
+  {
+    "video_id": "video_16",
+    "target_text": "Seated with one arm resting on the table, the woman’s trunk is severely bent forward and tilted sideways, adding spinal load and imbalance. Her upper arm is far above shoulder level, indicating overhead exertion and a high shoulder load."
+  },
+  {
+    "video_id": "video_17",
+    "target_text": "As the man pulls a hose toward a hydraulic system, his neck is extended, placing increased stress on the cervical spine. Additionally, he is standing on one leg, creating an asymmetric load on his lower body."
+  },
+  {
+    "video_id": "video_18",
+    "target_text": "Placing an item behind her on a shelf, the woman’s trunk is tilted sideways, which can cause muscular imbalance and fatigue. Her neck is extended as well, leading to added cervical spine stress."
+  },
+  {
+    "video_id": "video_19",
+    "target_text": "Leaning into a large tank, the male employee's trunk is rotated, increasing the torsional load on his spine. At the same time, his neck is strongly flexed, placing significant muscular strain on the cervical area."
+  },
+  {
+    "video_id": "video_20",
+    "target_text": "Surrounded by boxes, the woman is standing with her trunk bent forward between 20 to 60 degrees, rotated, and tilted sideways — a posture that places her spine under considerable torsional and muscular stress. Meanwhile, her upper arm is raised far above shoulder level, exposing the shoulder to high load due to overhead work."
+  },
+  {
+    "video_id": "video_21",
+    "target_text": "Sitting on a rolling stool, the man’s trunk is bent forward between 20 to 60 degrees and tilted sideways, stressing the lower back and causing muscle imbalance. Additionally, he is standing on one leg, leading to asymmetric loading on the lower body."
+  },
+  {
+    "video_id": "video_22",
+    "target_text": "While bending her knees to lift a box, the woman’s trunk is rotated, increasing torsional strain on the spine. Her neck is strongly flexed, adding significant muscular load, and her upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id": "video_23",
+    "target_text": "The scene captures a man adjusting overhead wires. His trunk is rotated, increasing torsional stress on the spine, and his neck is extended, putting additional strain on the cervical region."
+  },
+  {
+    "video_id": "video_24",
+    "target_text": "Stacking boxes onto a high shelf, the female employee's upper arm is moderately elevated above shoulder level, raising strain on the shoulder. At the same time, her trunk is severely bent forward, exposing her lower back to a high risk of strain."
+  },
+  {
+    "video_id": "video_25",
+    "target_text": "Dragging a large bin across a cluttered work zone, the man’s lower arm is either too extended or overly flexed, which could cause fatigue if sustained. His upper arm is raised far above shoulder level, exposing it to a high load, and his neck is strongly flexed, adding significant muscular stress."
+  },
+   {
+    "video_id": "video_26",
+    "target_text": "Holding a clipboard in one hand, the woman’s neck is extended and side-bent, which places stress on the cervical spine and may cause muscle imbalance and fatigue."
+  },
+  {
+    "video_id": "video_27",
+    "target_text": "As the man walks, his trunk is rotated, adding torsional stress to the spine, and he places asymmetric load on his lower body by standing on one leg."
+  },
+  {
+    "video_id": "video_28",
+    "target_text": "While seated and working at a computer, the woman’s trunk is bent forward between 20 to 60 degrees and rotated, increasing both spinal loading and torsional strain. She also stands on one leg, creating an asymmetric load on the lower body."
+  },
+  {
+    "video_id": "video_29",
+    "target_text": "Lifting a panel using both hands, the man’s trunk is severely bent forward, exposing his lower back to a high risk of strain. His upper arm is abducted, which stresses the rotator cuff and may cause joint instability."
+  },
+  {
+    "video_id": "video_30",
+    "target_text": "As the woman walks quickly, her lower arm appears too extended or overly flexed, risking muscular fatigue. Her neck is strongly flexed and side-bent, adding both significant cervical strain and muscle imbalance, while her trunk is rotated, increasing spinal torsion."
+  },
+  {
+    "video_id": "video_31",
+    "target_text": "While reaching backward to grab a container off a rack, the man’s upper arm is abducted, placing stress on the rotator cuff. His trunk is bent forward between 20 to 60 degrees, increasing the load on his spine."
+  },
+  {
+    "video_id": "video_32",
+    "target_text": "Operating machinery with a lever, the woman’s trunk is tilted sideways, creating muscular imbalance, while her upper arm is moderately raised above shoulder level, increasing strain on the shoulder joint."
+  },
+  {
+    "video_id": "video_33",
+    "target_text": "Kneeling to reach a part of a car, the man’s trunk is bent forward between 20 to 60 degrees and rotated, which raises both spinal loading and torsional strain."
+  },
+  {
+    "video_id": "video_34",
+    "target_text": "While seated at an office desk, the woman’s trunk is tilted sideways, causing muscle imbalance. Her neck is also side-bent, further adding to muscular asymmetry. Additionally, her lower arm is either too extended or overly flexed, risking fatigue, while her upper arm is raised far above shoulder level, indicating overhead strain."
+  },
+  {
+    "video_id": "video_35",
+    "target_text": "As the male employee picks up boxes, he stands on one leg, creating an asymmetric load on the lower body. His neck is side-bent, leading to muscle imbalance, and his upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id": "video_36",
+    "target_text": "While in a squatting position, the woman’s upper arm is raised far above shoulder level and abducted, both factors that expose her to a high shoulder load and increased rotator cuff stress."
+  },
+  {
+    "video_id": "video_37",
+    "target_text": "Tightening overhead bolts with a ratchet, the man’s neck is extended, placing stress on the cervical spine. His upper arm is raised far above shoulder level and abducted, increasing the load on the shoulder and rotator cuff."
+  },
+  {
+    "video_id": "video_38",
+    "target_text": "As the woman writes on her computer, her lower arm is either too extended or overly flexed, risking muscular fatigue. She is also standing on one leg, causing asymmetric load on the lower body, and her trunk is bent forward between 20 to 60 degrees, increasing spinal strain."
+  },
+  {
+    "video_id": "video_39",
+    "target_text": "Dragging a pallet across the factory floor, the man’s trunk is tilted sideways, causing muscle imbalance, and his neck is strongly flexed, placing significant load on the cervical spine."
+  },
+  {
+    "video_id": "video_40",
+    "target_text": "While assembling components, the woman’s trunk is bent forward between 20 to 60 degrees, adding spinal loading. Her neck is strongly flexed, increasing cervical strain. Meanwhile, her upper arm is raised far above shoulder level and abducted, placing a high load on the shoulder and stressing the rotator cuff."
+  },
+   {
+    "video_id": "video_41",
+    "target_text": "Standing at his desk, the man’s neck is side-bent, leading to muscle imbalance and fatigue. His upper arm is abducted, stressing the rotator cuff, and his trunk is bent forward between 20 to 60 degrees, increasing spinal loading."
+  },
+  {
+    "video_id": "video_42",
+    "target_text": "Adjusting knobs on a wall-mounted unit, the woman’s upper arm is abducted, placing stress on the rotator cuff. Her trunk is bent forward between 20 to 60 degrees and rotated, increasing both spinal loading and torsional strain."
+  },
+  {
+    "video_id": "video_43",
+    "target_text": "While making coffee, the man's neck is extended and side-bent, resulting in increased cervical spine stress and muscular imbalance."
+  },
+  {
+    "video_id": "video_44",
+    "target_text": "Standing on a narrow ledge to reach a high component, the woman’s neck is extended, raising cervical spine stress, while her upper arm is raised far above shoulder level, indicating overhead work and a high shoulder load."
+  },
+  {
+    "video_id": "video_45",
+    "target_text": "Twisting cables into place behind a large machine, the technician’s trunk is severely bent forward and tilted sideways, exposing him to lower back strain and muscular imbalance. His upper arm is raised moderately above shoulder level, adding strain to the shoulder joint."
+  },
+  {
+    "video_id": "video_46",
+    "target_text": "Sitting with one leg propped up, the woman’s posture shows asymmetric loading on the lower body. Her trunk is rotated and tilted sideways, raising both torsional and muscular strain, while her upper arm is raised far above shoulder level, exposing the shoulder to high load."
+  },
+  {
+    "video_id": "video_47",
+    "target_text": "Standing at a copier machine, the man’s trunk is bent forward between 20 to 60 degrees and tilted sideways, increasing spinal load and causing muscle imbalance. His upper arm is abducted, stressing the rotator cuff, and he is standing on one leg, leading to asymmetric loading."
+  },
+  {
+    "video_id": "video_48",
+    "target_text": "While organizing papers on a desk, the woman’s upper arm is abducted, placing stress on the rotator cuff. Additionally, her neck is strongly flexed, increasing muscular strain on the cervical spine."
+  },
+  {
+    "video_id": "video_49",
+    "target_text": "Entering a meeting room, the man’s upper arm is abducted, stressing the rotator cuff, while his lower arm is too extended or overly flexed, risking fatigue. His trunk is severely bent forward and rotated, increasing both spinal loading and torsional strain."
+  },
+  {
+    "video_id": "video_50",
+    "target_text": "Standing at a desk monitor, the woman’s legs bear asymmetric load from standing on one leg. Her neck is extended, raising cervical spine stress, and her lower arm appears too extended or overly flexed, which could cause fatigue."
+  },
+  {
+    "video_id": "video_51",
+    "target_text": "While lifting a heavy crate with both hands, the man’s upper arm is raised far above shoulder level, indicating overhead work and shoulder load. He is standing on one leg, creating asymmetric load on the lower body, and his trunk is severely bent forward, exposing his lower back to strain. His neck is side-bent, contributing to muscular imbalance."
+  },
+  {
+    "video_id": "video_52",
+    "target_text": "Turning her neck sharply to monitor a control screen behind her, the woman’s neck is extended, increasing cervical spine stress. Her upper arm is moderately raised above shoulder level, placing additional load on the shoulder joint."
+  },
+  {
+    "video_id": "video_53",
+    "target_text": "Plugging a cable into a computer, the man’s trunk is severely bent forward and rotated, raising spinal and torsional strain. His neck is side-bent, leading to muscle imbalance, and his upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id": "video_54",
+    "target_text": "As the woman pushes open a heavy safety door with her shoulder, her upper arm is raised far above shoulder level, indicating overhead load. Her trunk is rotated, placing additional torsional stress on the spine."
+  },
+  {
+    "video_id": "video_55",
+    "target_text": "While placing office supplies into a drawer, the woman’s trunk is severely bent forward, exposing her lower back to high strain. Her upper arm is raised far above shoulder level, increasing shoulder load due to overhead work."
+  },
+ {
+    "video_id": "video_56",
+    "target_text": "Placing a box on a shelf, the woman extends her neck, increasing cervical spine stress. Meanwhile, her upper arm is raised far above shoulder level, exposing her shoulder to a high load."
+  },
+  {
+    "video_id": "video_57",
+    "target_text": "Checking his phone, the man’s posture reveals several risks: his trunk is severely bent forward and tilted sideways, leading to spinal strain and muscular imbalance. His neck is strongly flexed, adding significant cervical load, and he is standing on one leg, creating asymmetric loading."
+  },
+  {
+    "video_id": "video_58",
+    "target_text": "While adjusting a chair, the woman’s neck is side-bent, causing muscular imbalance. She stands on one leg, creating asymmetric load, and her trunk is bent forward between 20 to 60 degrees and rotated, which increases spinal loading and torsional strain."
+  },
+  {
+    "video_id": "video_59",
+    "target_text": "Pressing hard on a stuck button, the man’s lower arm is too extended or overly flexed, risking fatigue. He is also standing on one leg, leading to asymmetric load on the lower body."
+  },
+  {
+    "video_id": "video_60",
+    "target_text": "While mopping the office hallway, the janitor’s trunk tilts sideways, leading to muscle imbalance, and his upper arm is raised far above shoulder level, causing high shoulder load."
+  },
+  {
+    "video_id": "video_61",
+    "target_text": "Answering the phone at the front desk, the receptionist's trunk is tilted sideways, which may cause muscular imbalance. Her neck is both extended and side-bent, leading to cervical spine stress and imbalance, and her lower arm is too extended or overly flexed, risking fatigue."
+  },
+  {
+    "video_id": "video_62",
+    "target_text": "While grabbing multiple tools at once, the woman’s trunk tilts sideways, adding to muscle imbalance. Simultaneously, her upper arm is raised far above shoulder level, increasing shoulder load."
+  },
+  {
+    "video_id": "video_63",
+    "target_text": "Wiping down a conference table, the cleaner’s neck is extended, leading to cervical spine stress, and her lower arm is too extended or overly flexed, which can cause muscular fatigue."
+  },
+  {
+    "video_id": "video_64",
+    "target_text": "Replacing a ceiling tile, the worker’s trunk is severely bent forward and tilted sideways, a posture that creates a high risk of lower back strain and muscular imbalance."
+  },
+  {
+    "video_id": "video_65",
+    "target_text": "While scanning documents, the receptionist’s legs are asymmetrically loaded from standing on one leg, and her upper arm is abducted, placing stress on the rotator cuff."
+  },
+  {
+    "video_id": "video_66",
+    "target_text": "Adjusting a conveyor belt sensor, the technician’s trunk is bent forward between 20 to 60 degrees, increasing spinal loading, while his lower arm is too extended or overly flexed, risking fatigue."
+  },
+  {
+    "video_id": "video_67",
+    "target_text": "Securing straps around a large package, the staff member raises the upper arm far above shoulder level and abducts it, which places substantial load on the shoulder and stresses the rotator cuff. Meanwhile, the neck is strongly flexed, adding cervical muscular load."
+  },
+  {
+    "video_id": "video_68",
+    "target_text": "Unlocking a tool cabinet, the worker’s upper arm is moderately raised above shoulder level, placing strain on the shoulder joint, while her neck is side-bent, creating muscle imbalance."
+  },
+  {
+    "video_id": "video_69",
+    "target_text": "Removing debris from a machine filter, the employee’s upper arm is raised far above shoulder level, causing overhead load on the shoulder. Her neck is strongly flexed and side-bent, increasing cervical strain and muscular imbalance."
+  },
+  {
+    "video_id": "video_70",
+    "target_text": "Checking pressure levels on a gauge, the technician’s upper arm is abducted, stressing the rotator cuff, while standing on one leg adds asymmetric loading to the lower body."
+  },
+    {
+    "video_id": "video_71",
+    "target_text": "Flipping a switch on an equipment panel, the employee stands on one leg, creating asymmetric load. His neck is strongly flexed, placing significant muscular strain, and his upper arm is raised moderately above shoulder level, adding strain to the shoulder joint."
+  },
+  {
+    "video_id": "video_72",
+    "target_text": "Measuring components with a caliper, the technician stands on one leg, causing asymmetric lower body loading, while the upper arm is moderately raised above shoulder level, stressing the shoulder joint."
+  },
+  {
+    "video_id": "video_73",
+    "target_text": "While disconnecting wires from a terminal, the staff member’s neck is extended and side-bent, placing stress on the cervical spine and causing muscular imbalance. Her trunk is also tilted sideways, adding further strain."
+  },
+  {
+    "video_id": "video_74",
+    "target_text": "Inspecting parts under a magnifying lamp, the worker’s neck is side-bent, leading to muscle imbalance. His trunk is severely bent forward and rotated, increasing both spinal and torsional strain."
+  },
+  {
+    "video_id": "video_75",
+    "target_text": "While placing finished items on a shelf, the employee’s neck is strongly flexed, exposing the cervical spine to significant muscular load."
+  },
+  {
+    "video_id": "video_76",
+    "target_text": "Cleaning safety goggles, the staff member’s trunk is both rotated and tilted sideways, leading to torsional stress and muscular imbalance."
+  },
+  {
+    "video_id": "video_77",
+    "target_text": "Restocking supply bins, the worker’s upper arm is moderately raised above shoulder level, increasing shoulder strain, while the lower arm is too extended or overly flexed, risking fatigue."
+  },
+  {
+    "video_id": "video_78",
+    "target_text": "Folding protective aprons, the employee’s trunk is tilted sideways, causing muscular imbalance, and her neck is side-bent, adding to the postural strain."
+  },
+  {
+    "video_id": "video_79",
+    "target_text": "While routing cables through trays, the technician’s upper arm is moderately raised above shoulder level, increasing shoulder strain. His neck is extended, adding cervical load, while his trunk is severely bent forward and rotated, leading to significant spinal stress."
+  },
+  {
+    "video_id": "video_80",
+    "target_text": "Reviewing floor schematics, the staff member’s upper arm is raised far above shoulder level, exposing the shoulder to high load, while his trunk is severely bent forward, risking lower back strain."
+  },
+  {
+    "video_id": "video_81",
+    "target_text": "Tightening screws on a small motor, the worker’s upper arm is moderately raised above shoulder level and abducted, stressing both the shoulder joint and rotator cuff. His neck is strongly flexed, increasing cervical spine load."
+  },
+  {
+    "video_id": "video_82",
+    "target_text": "Cleaning a touchscreen interface, the employee’s neck is strongly flexed, placing significant strain on the cervical spine. Her upper arm is raised far above shoulder level, and her trunk is tilted sideways, leading to muscular imbalance."
+  },
+  {
+    "video_id": "video_83",
+    "target_text": "Inserting raw parts into a press, the machine operator’s trunk is severely bent forward and tilted sideways, leading to lower back and muscular strain. Her neck is strongly flexed, and her upper arm is abducted, adding stress to the rotator cuff."
+  },
+  {
+    "video_id": "video_84",
+    "target_text": "Closing a shipping container, the staff member’s trunk is rotated, creating torsional stress, while her neck is strongly flexed and her upper arm is abducted, leading to combined spinal and shoulder strain."
+  },
+  {
+    "video_id": "video_85",
+    "target_text": "Aligning brackets during assembly, the staff member’s trunk is rotated, increasing torsional spinal load, while her lower arm is either too extended or overly flexed, risking muscular fatigue."
+  },
+  {
+    "video_id": "video_86",
+    "target_text": "Unrolling wire from a spool, the worker’s trunk is severely bent forward, exposing the lower back to high strain. His neck is extended, stressing the cervical spine, and his upper arm is moderately raised above shoulder level, increasing shoulder load."
+  },
+  {
+    "video_id": "video_87",
+    "target_text": "Replacing gloves from a dispenser, the employee’s trunk is severely bent forward, rotated, and tilted sideways, leading to combined lower back, torsional, and muscular strain. His lower arm is too extended or overly flexed, risking fatigue."
+  },
+  {
+    "video_id": "video_88",
+    "target_text": "Inspecting weld joints for defects, the technician’s upper arm is moderately raised above shoulder level and abducted, stressing the shoulder and rotator cuff, while his neck is extended, adding cervical spine stress."
+  },
+  {
+    "video_id": "video_89",
+    "target_text": "Adjusting a laser cutter tray, the staff member’s neck is extended and side-bent, contributing to cervical strain and muscular imbalance."
+  },
+  {
+    "video_id": "video_90",
+    "target_text": "Organizing power tools in a drawer, the worker’s trunk is rotated and tilted sideways, placing both torsional and muscular strain on the spine."
+  },
+ {
+    "video_id": "video_91",
+    "target_text": "Pushing a bin through the production area, the employee’s trunk is rotated and tilted sideways, creating torsional stress and muscular imbalance. His neck is side-bent, adding further strain, and his upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id": "video_92",
+    "target_text": "Logging in to a workstation, the technician’s neck is side-bent, causing muscle imbalance, while the upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id": "video_93",
+    "target_text": "Removing scrap from the floor, the staff member’s trunk tilts sideways, leading to muscular imbalance, while the neck is extended, placing stress on the cervical spine."
+  },
+  {
+    "video_id": "video_94",
+    "target_text": "Applying labels to boxes, the worker’s trunk is rotated, increasing torsional stress, and the upper arm is moderately raised above shoulder level, leading to shoulder strain."
+  },
+  {
+    "video_id": "video_95",
+    "target_text": "Loading heavy items onto a dolly, the employee’s lower arm is too extended or overly flexed, risking fatigue. His neck is strongly flexed, adding cervical strain, and his trunk is rotated and tilted sideways, increasing spinal and muscular stress."
+  },
+  {
+    "video_id": "video_96",
+    "target_text": "Reattaching a machine panel, the technician’s trunk is tilted sideways, causing imbalance, while the neck is strongly flexed, adding cervical strain. His lower arm is too extended or overly flexed, and his upper arm is abducted, stressing the rotator cuff."
+  },
+  {
+    "video_id": "video_97",
+    "target_text": "Updating inventory software, the staff member’s trunk is rotated, leading to torsional spinal stress. Meanwhile, the upper arm is moderately elevated and abducted, increasing shoulder joint and rotator cuff strain."
+  },
+  {
+    "video_id": "video_98",
+    "target_text": "Measuring pipe segments, the worker’s neck is both strongly flexed and side-bent, placing significant load on the cervical spine, while the lower arm is too extended or overly flexed, risking muscular fatigue."
+  },
+  {
+    "video_id": "video_99",
+    "target_text": "Stacking filled containers by height, the employee’s neck is strongly flexed, stressing the cervical spine, and the upper arm is abducted, adding strain to the rotator cuff."
+  },
+  {
+    "video_id": "video_100",
+    "target_text": "Wiping off a lens on inspection equipment, the technician’s lower arm is too extended or overly flexed, risking muscular fatigue. His neck is strongly flexed and side-bent, leading to cervical strain and muscle imbalance."
+  },
+  {
+    "video_id": "video_101",
+    "target_text": "Changing out a safety sign, the staff member’s lower arm is too extended or overly flexed, risking fatigue, and the neck is strongly flexed and side-bent, contributing to cervical stress and muscle imbalance."
+  },
+  {
+    "video_id": "video_102",
+    "target_text": "Lowering a mechanical lift with a control panel, the worker’s lower arm is too extended or overly flexed, while the neck is side-bent, creating muscle imbalance."
+  },
+  {
+    "video_id": "video_103",
+    "target_text": "Welding two metal frames together, the staff member’s lower arm is too extended or overly flexed, leading to muscular fatigue, while the neck is side-bent, causing muscle imbalance."
+  },
+  {
+    "video_id": "video_104",
+    "target_text": "Organizing tools on a wall-mounted rack, the worker’s neck is side-bent, a posture that can cause muscular imbalance and fatigue."
+  },
+  {
+    "video_id": "video_105",
+    "target_text": "Carrying a toolbox across the factory floor, the employee’s neck is side-bent, creating muscular asymmetry and potential strain."
+  },
+  {
+    "video_id": "video_106",
+    "target_text": "Pressing a control button on a console, the machine operator’s neck is side-bent, leading to muscular imbalance."
+  },
+  {
+    "video_id": "video_107",
+    "target_text": "Wrapping finished products in protective film, the worker maintains acceptable ergonomic conditions across the neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id": "video_108",
+    "target_text": "Lifting a machine panel for inspection, the technician demonstrates acceptable ergonomic posture for the neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id": "video_109",
+    "target_text": "Aligning parts on an assembly jig, the employee shows acceptable ergonomic conditions across all monitored body parts."
+  },
+  {
+    "video_id": "video_110",
+    "target_text": "Opening a supply cabinet, the worker maintains acceptable ergonomic conditions for the neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id": "video_111",
+    "target_text": "Walking along a production line, the woman exhibits acceptable posture across her neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id": "video_112",
+    "target_text": "Removing a part from the inspection table, the man maintains acceptable ergonomic conditions with no need for corrective measures."
+  },
+  {
+    "video_id": "video_113",
+    "target_text": "Loading packaging materials into a dispenser, the woman’s posture is ergonomically acceptable across all observed body parts."
+  },
+  {
+    "video_id": "video_114",
+    "target_text": "Flipping switches on a large control board, the woman maintains acceptable ergonomic posture with no evident risk factors."
+  },
+  {
+    "video_id": "video_115",
+    "target_text": "Scanning components with a barcode reader, the man exhibits acceptable conditions across his neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id": "video_116",
+    "target_text": "Sweeping debris into a dustpan, the woman demonstrates ergonomically acceptable posture in all monitored regions."
+  },
+  {
+    "video_id": "video_117",
+    "target_text": "Applying a tracking tag to a finished unit, the man shows acceptable posture throughout the neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id": "video_118",
+    "target_text": "Organizing manuals on a storage rack, the woman maintains acceptable ergonomic conditions with no need for intervention."
+  },
+  {
+    "video_id": "video_119",
+    "target_text": "Replacing tubing in a mechanical system, the man’s posture across all body parts is ergonomically acceptable."
+  },
+  {
+    "video_id": "video_120",
+    "target_text": "Placing documents into a folder, the woman exhibits acceptable ergonomic posture with no identified risks."
+  },
+  {
+    "video_id": "video_121",
+    "target_text": "Rolling a tool cart to the next station, the man’s posture remains within acceptable ergonomic limits."
+  },
+  {
+    "video_id": "video_122",
+    "target_text": "Working with a laptop at a standing desk, the woman shows acceptable ergonomic conditions for the neck, trunk, upper arms, lower arms, and legs."
+  },
+  {
+    "video_id": "video_123",
+    "target_text": "Walking across the workshop with a clipboard, the woman maintains acceptable posture across all observed body parts."
+  }
+]

@@ -1,0 +1,320 @@
+﻿video_id,body_part,keyword_explanation
+video_01,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_01,neck,strongly flexed (causing significant muscular load)
+video_01,trunk,severely bent forward (high risk of lower back strain)
+video_02,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_02,trunk,bent forward 20 to 60 degrees (causing increased spinal loading)
+video_03,upper_arm,"far above shoulder level (overhead work; high shoulder load), with abducted (Rotator cuff stress; joint instability)"
+video_03,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_03,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_04,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_05,trunk,severely bent forward (high risk of lower back strain)
+video_05,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_06,upper_arm,"moderately above shoulder level (increased strain on shoulder joint), with abducted (Rotator cuff stress; joint instability)"
+video_06,trunk,"severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine)"
+video_07,neck,side-bent (causing muscle imbalance and fatigue)
+video_07,trunk,severely bent forward (high risk of lower back strain)
+video_07,legs,standing on one leg (asymmetric load on lower body)
+video_08,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_08,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_08,trunk,bent forward 20 to 60 degrees (causing increased spinal loading)
+video_09,trunk,severely bent forward (high risk of lower back strain)
+video_09,neck,strongly flexed (causing significant muscular load)
+video_10,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_10,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_10,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_11,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_11,neck,neck extension (increasing cervical spine stress)
+video_12,legs,standing on one leg (asymmetric load on lower body)
+video_12,neck,strongly flexed (causing significant muscular load)
+video_12,upper_arm,"moderately above shoulder level (increased strain on shoulder joint), with abducted (Rotator cuff stress; joint instability)"
+video_13,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_13,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_14,trunk,rotated (increasing torsional load on the spine)
+video_14,neck,"neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue)"
+video_15,trunk,"severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue)"
+video_15,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_16,trunk,"severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue)"
+video_16,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_17,neck,neck extension (increasing cervical spine stress)
+video_17,legs,standing on one leg (asymmetric load on lower body)
+video_18,neck,neck extension (increasing cervical spine stress)
+video_18,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_19,trunk,rotated (increasing torsional load on the spine)
+video_19,neck,strongly flexed (causing significant muscular load)
+video_20,trunk,"bent forward 20 to 60 degrees (causing increased spinal loading), with rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue)"
+video_20,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_21,legs,standing on one leg (asymmetric load on lower body)
+video_21,trunk,"bent forward 20 to 60 degrees (causing increased spinal loading), with tilted sideways (leading to muscle imbalance and fatigue)"
+video_22,trunk,rotated (increasing torsional load on the spine)
+video_22,neck,strongly flexed (causing significant muscular load)
+video_22,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_23,trunk,rotated (increasing torsional load on the spine)
+video_23,neck,neck extension (increasing cervical spine stress)
+video_24,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_24,trunk,severely bent forward (high risk of lower back strain)
+video_25,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_25,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_25,neck,strongly flexed (causing significant muscular load)
+video_26,neck,"neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue)"
+video_27,trunk,rotated (increasing torsional load on the spine)
+video_27,legs,standing on one leg (asymmetric load on lower body)
+video_28,trunk,"bent forward 20 to 60 degrees (causing increased spinal loading), with rotated (increasing torsional load on the spine)"
+video_28,legs,standing on one leg (asymmetric load on lower body)
+video_29,trunk,severely bent forward (high risk of lower back strain)
+video_29,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_30,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_30,neck,"strongly flexed (causing significant muscular load), with side-bent (causing muscle imbalance and fatigue)"
+video_30,trunk,rotated (increasing torsional load on the spine)
+video_31,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_31,trunk,bent forward 20 to 60 degrees (causing increased spinal loading)
+video_32,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_32,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_33,trunk,"bent forward 20 to 60 degrees (causing increased spinal loading), with rotated (increasing torsional load on the spine)"
+video_34,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_34,neck,side-bent (causing muscle imbalance and fatigue)
+video_34,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_34,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_35,legs,standing on one leg (asymmetric load on lower body)
+video_35,neck,side-bent (causing muscle imbalance and fatigue)
+video_35,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_36,upper_arm,"far above shoulder level (overhead work; high shoulder load), with abducted (Rotator cuff stress; joint instability)"
+video_37,neck,neck extension (increasing cervical spine stress)
+video_37,upper_arm,"far above shoulder level (overhead work; high shoulder load), with abducted (Rotator cuff stress; joint instability)"
+video_38,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_38,legs,standing on one leg (asymmetric load on lower body)
+video_38,trunk,bent forward 20 to 60 degrees (causing increased spinal loading)
+video_39,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_39,neck,strongly flexed (causing significant muscular load)
+video_40,trunk,bent forward 20 to 60 degrees (causing increased spinal loading)
+video_40,neck,strongly flexed (causing significant muscular load)
+video_40,upper_arm,"far above shoulder level (overhead work; high shoulder load), with abducted (Rotator cuff stress; joint instability)"
+video_41,neck,side-bent (causing muscle imbalance and fatigue)
+video_41,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_41,trunk,bent forward 20 to 60 degrees (causing increased spinal loading)
+video_42,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_42,trunk,"bent forward 20 to 60 degrees (causing increased spinal loading), with rotated (increasing torsional load on the spine)"
+video_43,neck,"neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue)"
+video_44,neck,neck extension (increasing cervical spine stress)
+video_44,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_45,trunk,"severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue)"
+video_45,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_46,legs,standing on one leg (asymmetric load on lower body)
+video_46,trunk,rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue)
+video_46,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_47,trunk,"bent forward 20 to 60 degrees (causing increased spinal loading), with tilted sideways (leading to muscle imbalance and fatigue)"
+video_47,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_47,legs,standing on one leg (asymmetric load on lower body)
+video_48,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_48,neck,strongly flexed (causing significant muscular load)
+video_49,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_49,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_49,trunk,"severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine)"
+video_50,legs,standing on one leg (asymmetric load on lower body)
+video_50,neck,neck extension (increasing cervical spine stress)
+video_50,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_51,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_51,legs,standing on one leg (asymmetric load on lower body)
+video_51,trunk,severely bent forward (high risk of lower back strain)
+video_51,neck,side-bent (causing muscle imbalance and fatigue)
+video_52,neck,neck extension (increasing cervical spine stress)
+video_52,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_53,trunk,"severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine)"
+video_53,neck,side-bent (causing muscle imbalance and fatigue)
+video_53,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_54,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_54,trunk,rotated (increasing torsional load on the spine)
+video_55,trunk,severely bent forward (high risk of lower back strain)
+video_55,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_56,neck,neck extension (increasing cervical spine stress)
+video_56,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_57,legs,standing on one leg (asymmetric load on lower body)
+video_57,trunk,"severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue)"
+video_57,neck,strongly flexed (causing significant muscular load)
+video_58,neck,side-bent (causing muscle imbalance and fatigue)
+video_58,legs,standing on one leg (asymmetric load on lower body)
+video_58,trunk,"bent forward 20 to 60 degrees (causing increased spinal loading), with rotated (increasing torsional load on the spine)"
+video_59,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_59,legs,standing on one leg (asymmetric load on lower body)
+video_60,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_60,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_61,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_61,neck,"neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue)"
+video_61,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_62,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_62,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_63,neck,neck extension (increasing cervical spine stress)
+video_63,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_64,trunk,"severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue)"
+video_65,legs,standing on one leg (asymmetric load on lower body)
+video_65,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_66,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_66,trunk,bent forward 20 to 60 degrees (causing increased spinal loading)
+video_67,upper_arm,"far above shoulder level (overhead work; high shoulder load), with abducted (Rotator cuff stress; joint instability)"
+video_67,neck,strongly flexed (causing significant muscular load)
+video_68,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_68,neck,side-bent (causing muscle imbalance and fatigue)
+video_69,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_69,neck,"strongly flexed (causing significant muscular load), with side-bent (causing muscle imbalance and fatigue)"
+video_70,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_70,legs,standing on one leg (asymmetric load on lower body)
+video_71,legs,standing on one leg (asymmetric load on lower body)
+video_71,neck,strongly flexed (causing significant muscular load)
+video_71,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_72,legs,standing on one leg (asymmetric load on lower body)
+video_72,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_73,neck,"neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue)"
+video_73,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_74,neck,side-bent (causing muscle imbalance and fatigue)
+video_74,trunk,"severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine)"
+video_75,neck,strongly flexed (causing significant muscular load)
+video_76,trunk,rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue)
+video_77,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_77,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_78,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_78,neck,side-bent (causing muscle imbalance and fatigue)
+video_79,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_79,neck,neck extension (increasing cervical spine stress)
+video_79,trunk,"severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine)"
+video_80,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_80,trunk,severely bent forward (high risk of lower back strain)
+video_81,upper_arm,"moderately above shoulder level (increased strain on shoulder joint), with abducted (Rotator cuff stress; joint instability)"
+video_81,neck,strongly flexed (causing significant muscular load)
+video_82,neck,strongly flexed (causing significant muscular load)
+video_82,upper_arm,far above shoulder level (overhead work; high shoulder load)
+video_82,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_83,trunk,"severely bent forward (high risk of lower back strain), with tilted sideways (leading to muscle imbalance and fatigue)"
+video_83,neck,strongly flexed (causing significant muscular load)
+video_83,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_84,trunk,rotated (increasing torsional load on the spine)
+video_84,neck,strongly flexed (causing significant muscular load)
+video_84,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_85,trunk,rotated (increasing torsional load on the spine)
+video_85,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_86,trunk,severely bent forward (high risk of lower back strain)
+video_86,neck,neck extension (increasing cervical spine stress)
+video_86,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_87,trunk,"severely bent forward (high risk of lower back strain), with rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue)"
+video_87,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_88,upper_arm,"moderately above shoulder level (increased strain on shoulder joint), with abducted (Rotator cuff stress; joint instability)"
+video_88,neck,neck extension (increasing cervical spine stress)
+video_89,neck,"neck extension (increasing cervical spine stress), with side-bent (causing muscle imbalance and fatigue)"
+video_90,trunk,rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue)
+video_91,trunk,rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue)
+video_91,neck,side-bent (causing muscle imbalance and fatigue)
+video_91,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_92,neck,side-bent (causing muscle imbalance and fatigue)
+video_92,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_93,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_93,neck,neck extension (increasing cervical spine stress)
+video_94,trunk,rotated (increasing torsional load on the spine)
+video_94,upper_arm,moderately above shoulder level (increased strain on shoulder joint)
+video_95,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_95,neck,strongly flexed (causing significant muscular load)
+video_95,trunk,rotated (increasing torsional load on the spine) and tilted sideways (leading to muscle imbalance and fatigue)
+video_96,trunk,tilted sideways (leading to muscle imbalance and fatigue)
+video_96,neck,strongly flexed (causing significant muscular load)
+video_96,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_96,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_97,trunk,rotated (increasing torsional load on the spine)
+video_97,upper_arm,"moderately above shoulder level (increased strain on shoulder joint), with abducted (Rotator cuff stress; joint instability)"
+video_98,neck,"strongly flexed (causing significant muscular load), with side-bent (causing muscle imbalance and fatigue)"
+video_98,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_99,neck,strongly flexed (causing significant muscular load)
+video_99,upper_arm,abducted (Rotator cuff stress; joint instability)
+video_100,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_100,neck,"strongly flexed (causing significant muscular load), with side-bent (causing muscle imbalance and fatigue)"
+video_101,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_101,neck,"strongly flexed (causing significant muscular load), with side-bent (causing muscle imbalance and fatigue)"
+video_102,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_102,neck,side-bent (causing muscle imbalance and fatigue)
+video_103,lower_arm,too extended or overly flexed (fatigue if sustained)
+video_103,neck,side-bent (causing muscle imbalance and fatigue)
+video_104,neck,side-bent (causing muscle imbalance and fatigue)
+video_105,neck,side-bent (causing muscle imbalance and fatigue)
+video_106,neck,side-bent (causing muscle imbalance and fatigue)
+video_107,upper_arm,"Acceptable conditions, no need for further measures"
+video_107,lower_arm,"Acceptable conditions, no need for further measures"
+video_107,leg,"Acceptable conditions, no need for further measures"
+video_107,neck,"Acceptable conditions, no need for further measures"
+video_107,trunk,"Acceptable conditions, no need for further measures"
+video_108,upper_arm,"Acceptable conditions, no need for further measures"
+video_108,lower_arm,"Acceptable conditions, no need for further measures"
+video_108,leg,"Acceptable conditions, no need for further measures"
+video_108,neck,"Acceptable conditions, no need for further measures"
+video_108,trunk,"Acceptable conditions, no need for further measures"
+video_109,upper_arm,"Acceptable conditions, no need for further measures"
+video_109,lower_arm,"Acceptable conditions, no need for further measures"
+video_109,leg,"Acceptable conditions, no need for further measures"
+video_109,neck,"Acceptable conditions, no need for further measures"
+video_109,trunk,"Acceptable conditions, no need for further measures"
+video_110,upper_arm,"Acceptable conditions, no need for further measures"
+video_110,lower_arm,"Acceptable conditions, no need for further measures"
+video_110,leg,"Acceptable conditions, no need for further measures"
+video_110,neck,"Acceptable conditions, no need for further measures"
+video_110,trunk,"Acceptable conditions, no need for further measures"
+video_111,upper_arm,"Acceptable conditions, no need for further measures"
+video_111,lower_arm,"Acceptable conditions, no need for further measures"
+video_111,leg,"Acceptable conditions, no need for further measures"
+video_111,neck,"Acceptable conditions, no need for further measures"
+video_111,trunk,"Acceptable conditions, no need for further measures"
+video_112,upper_arm,"Acceptable conditions, no need for further measures"
+video_112,lower_arm,"Acceptable conditions, no need for further measures"
+video_112,leg,"Acceptable conditions, no need for further measures"
+video_112,neck,"Acceptable conditions, no need for further measures"
+video_112,trunk,"Acceptable conditions, no need for further measures"
+video_113,upper_arm,"Acceptable conditions, no need for further measures"
+video_113,lower_arm,"Acceptable conditions, no need for further measures"
+video_113,leg,"Acceptable conditions, no need for further measures"
+video_113,neck,"Acceptable conditions, no need for further measures"
+video_113,trunk,"Acceptable conditions, no need for further measures"
+video_114,upper_arm,"Acceptable conditions, no need for further measures"
+video_114,lower_arm,"Acceptable conditions, no need for further measures"
+video_114,leg,"Acceptable conditions, no need for further measures"
+video_114,neck,"Acceptable conditions, no need for further measures"
+video_114,trunk,"Acceptable conditions, no need for further measures"
+video_115,upper_arm,"Acceptable conditions, no need for further measures"
+video_115,lower_arm,"Acceptable conditions, no need for further measures"
+video_115,leg,"Acceptable conditions, no need for further measures"
+video_115,neck,"Acceptable conditions, no need for further measures"
+video_115,trunk,"Acceptable conditions, no need for further measures"
+video_116,upper_arm,"Acceptable conditions, no need for further measures"
+video_116,lower_arm,"Acceptable conditions, no need for further measures"
+video_116,leg,"Acceptable conditions, no need for further measures"
+video_116,neck,"Acceptable conditions, no need for further measures"
+video_116,trunk,"Acceptable conditions, no need for further measures"
+video_117,upper_arm,"Acceptable conditions, no need for further measures"
+video_117,lower_arm,"Acceptable conditions, no need for further measures"
+video_117,leg,"Acceptable conditions, no need for further measures"
+video_117,neck,"Acceptable conditions, no need for further measures"
+video_117,trunk,"Acceptable conditions, no need for further measures"
+video_118,upper_arm,"Acceptable conditions, no need for further measures"
+video_118,lower_arm,"Acceptable conditions, no need for further measures"
+video_118,leg,"Acceptable conditions, no need for further measures"
+video_118,neck,"Acceptable conditions, no need for further measures"
+video_118,trunk,"Acceptable conditions, no need for further measures"
+video_119,upper_arm,"Acceptable conditions, no need for further measures"
+video_119,lower_arm,"Acceptable conditions, no need for further measures"
+video_119,leg,"Acceptable conditions, no need for further measures"
+video_119,neck,"Acceptable conditions, no need for further measures"
+video_119,trunk,"Acceptable conditions, no need for further measures"
+video_120,upper_arm,"Acceptable conditions, no need for further measures"
+video_120,lower_arm,"Acceptable conditions, no need for further measures"
+video_120,leg,"Acceptable conditions, no need for further measures"
+video_120,neck,"Acceptable conditions, no need for further measures"
+video_120,trunk,"Acceptable conditions, no need for further measures"
+video_121,upper_arm,"Acceptable conditions, no need for further measures"
+video_121,lower_arm,"Acceptable conditions, no need for further measures"
+video_121,leg,"Acceptable conditions, no need for further measures"
+video_121,neck,"Acceptable conditions, no need for further measures"
+video_121,trunk,"Acceptable conditions, no need for further measures"
+video_122,upper_arm,"Acceptable conditions, no need for further measures"
+video_122,lower_arm,"Acceptable conditions, no need for further measures"
+video_122,leg,"Acceptable conditions, no need for further measures"
+video_122,neck,"Acceptable conditions, no need for further measures"
+video_122,trunk,"Acceptable conditions, no need for further measures"
+video_123,upper_arm,"Acceptable conditions, no need for further measures"
+video_123,lower_arm,"Acceptable conditions, no need for further measures"
+video_123,leg,"Acceptable conditions, no need for further measures"
+video_123,neck,"Acceptable conditions, no need for further measures"
+video_123,trunk,"Acceptable conditions, no need for further measures"
