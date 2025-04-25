@@ -7,17 +7,15 @@ from generate_keywords import generate_rula_keywords
 
 def define_target_counts():
     return {
-        ('upper_arm_left', 3): 13, ('upper_arm_left', 4): 19,
-        ('upper_arm_right', 3): 13, ('upper_arm_right', 4): 19,
-        ('neck', 3): 15, ('neck', 4): 19,
-        ('trunk', 3): 7, ('trunk', 4): 18,
-        ('forearm_right', 2): 11, ('forearm_left', 2): 11,
-        ('shoulder_elevated_right', 1): 16, ('arm_abducted_right', 1): 18,
-        ('shoulder_elevated_left', 1): 16, ('arm_abducted_left', 1): 18,
-        ('crossed_midline_left', 1): 20, ('rotated_outwards_left', 1): 18,
-        ('crossed_midline_right', 1): 20, ('rotated_outwards_right', 1): 18,
-        ('neck_rotated', 1): 18, ('neck_tilted', 1): 18,
-        ('trunk_rotated', 1): 14, ('trunk_sidebent', 1): 12
+        ('upper_arm', 3): 25, ('upper_arm', 4): 29,
+        ('trunk', 3): 16, ('trunk', 4): 25,
+        ('neck', 3): 30, ('neck', 4): 22,
+        ('lower_arm', 2): 24,
+        ('legs', 2): 19,
+        ('arm_abducted', 1): 29,
+        ('neck_tilted', 1): 28,
+        ('trunk_rotated', 1): 27,
+        ('trunk_sidebent', 1): 30,
     }
 
 
@@ -88,6 +86,29 @@ def perform_sanity_check(combinations, target_counts):
         print("\nSanity check: There were mismatches.")
 
 
+def generate_all_good_keywords(df_keywords, synthetic_folder, num_entries=17):
+    all_body_parts = ["upper_arm", "lower_arm", "leg", "neck", "trunk"]
+
+    existing_ids = df_keywords["video_id"].str.extract(r"video_(\d+)").dropna()[0].astype(int)
+    start_id = existing_ids.max() + 1
+
+    all_good_rows = []
+    for i in range(num_entries):
+        video_id = f"video_{start_id + i:03d}"
+        for bp in all_body_parts:
+            all_good_rows.append({
+                "video_id": video_id,
+                "body_part": bp,
+                "keyword_explanation": "Acceptable conditions, no need for further measures"
+            })
+
+    df_all_good = pd.DataFrame(all_good_rows)
+
+    df_combined = pd.concat([df_keywords, df_all_good], ignore_index = True)
+    df_combined.to_csv(f"{synthetic_folder}/body_parts_keywords.csv", index = False, encoding = "utf-8-sig")
+    return df_combined
+
+
 def format_body_part(snake_case_name):
     return snake_case_name.replace("_", " ")
 
@@ -124,9 +145,12 @@ def merge_captions_keywords(captions_df, keywords_df, output_folder):
 
 def merge_train_dataset(prompt_df, target_df, output_folder):
     df_targets = pd.DataFrame(target_df)
+    if 'target_text' in df_targets.columns:
+        df_targets = df_targets.rename(columns = {"target_text": "output"})
     df_prompts = pd.DataFrame(prompt_df)
 
     merged_df = pd.merge(df_prompts, df_targets, on = "video_id", how = "inner")
+    merged_df["output"] = merged_df["output"].astype(str)
 
     output_path = f"{output_folder}/finetune_data_synthetic.json"
     merged_df.to_json(output_path, orient = "records", indent = 2)
@@ -146,12 +170,10 @@ def concatenate_finetune_datasets(synthesized_data, original_data, output_path):
         json.dump(combined_data, f, indent = 2)
 
 
-def main():
+def generate_synthetic_data():
     original_folder = "data/original_data"
     synthetic_folder = "data/synthetic_data"
     captions_df = pd.read_csv(f"{synthetic_folder}/captions.csv", sep = ";")
-    with open(f"{synthetic_folder}/generated_target_texts.json", "r") as f:
-        target_df = json.load(f)
     with open(f"{original_folder}/finetune_train_dataset_original.json", "r") as f:
         original_data = json.load(f)
 
@@ -161,9 +183,14 @@ def main():
     df = combinations_to_dataframe(combinations)
     keywords_df = generate_keywords_from_dataframe(df, synthetic_folder)
     perform_sanity_check(combinations, target_counts)
+    keywords_df = generate_all_good_keywords(keywords_df, synthetic_folder)
 
-    # Combine body_part - keyword pairs with captions and targets
+    # Combine body_part - keyword pairs with captions
     prompt_df = merge_captions_keywords(captions_df, keywords_df, synthetic_folder)
+
+    # Manually create target file and merge with prompt data
+    with open(f"{synthetic_folder}/generated_target_texts.json", "r") as f:
+        target_df = json.load(f)
     synthesized_df = merge_train_dataset(prompt_df, target_df, synthetic_folder)
     synthesized_data = synthesized_df.to_dict(orient = "records")
 
@@ -172,4 +199,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    generate_synthetic_data()

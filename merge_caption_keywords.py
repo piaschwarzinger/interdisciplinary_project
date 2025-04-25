@@ -8,7 +8,7 @@ def extract_keywords_from_file(folder_path, keyword_file):
     with open(f"{folder_path}/frame_captions.json", "r") as f:
         captions = json.load(f)
 
-    keyword_df = pd.read_csv(keyword_file, encoding="utf-8-sig").set_index("body_part")
+    keyword_df = pd.read_csv(keyword_file, encoding = "utf-8-sig").set_index("body_part")
     merged = []
 
     for entry in captions:
@@ -43,7 +43,7 @@ def extract_keywords_from_file_merged_caption(folder_path, keyword_file):
     with open(f"{folder_path}/frame_captions.json", "r") as f:
         captions = json.load(f)
 
-    keyword_df = pd.read_csv(keyword_file, encoding="utf-8-sig").set_index("body_part")
+    keyword_df = pd.read_csv(keyword_file, encoding = "utf-8-sig").set_index("body_part")
     grouped = {}
 
     for entry in captions:
@@ -79,12 +79,12 @@ def extract_keywords_from_file_merged_caption(folder_path, keyword_file):
         })
 
     with open(f"{folder_path}/merged_caption_keyword.json", "w") as f:
-        json.dump(merged, f, indent=2)
+        json.dump(merged, f, indent = 2)
 
     return merged
 
 
-def build_finetune_dataset(frames_root, target_text_path, keyword_folder, output_path):
+def build_finetune_dataset(frames_root, target_text_path, keyword_folder, output_path, test = False):
     frames_root = Path(frames_root)
     keyword_folder = Path(keyword_folder)
 
@@ -93,10 +93,21 @@ def build_finetune_dataset(frames_root, target_text_path, keyword_folder, output
         target_data = json.load(f)
     target_dict = {entry["video_id"]: entry["target_text"] for entry in target_data}
 
+    # Videos to skip for training, but include in test
+    skip_videos = {"video_11", "video_12", "video_13"}
+
     dataset = []
 
     for keyword_path in sorted(keyword_folder.glob("*.csv")):
         video_id = keyword_path.stem
+
+        # If building train set and this is a test video → skip
+        if not test and video_id in skip_videos:
+            continue
+        # If building test set and this is NOT a test video → skip
+        if test and video_id not in skip_videos:
+            continue
+
         folder_path = frames_root / video_id
 
         merged_data = extract_keywords_from_file_merged_caption(folder_path, keyword_path)
@@ -118,30 +129,22 @@ def build_finetune_dataset(frames_root, target_text_path, keyword_folder, output
                     f"Body part: {body_part}. Risk factors: {keywords}."
                 )
 
-        prompt = (
-            "You are an expert in ergonomics. Based on the following observations from a workplace video, "
-            "generate a detailed ergonomic risk explanation. "
-            "Start by briefly describing the general scenario observed in the video. "
-            "Then, provide a detailed explanation for each body part, including why it is considered at risk based on the "
-            "respective risk factors and posture description.\n\n"
-            + "\n".join(frame_inputs)
-        )
-
         prompt = ("\n".join(frame_inputs))
 
         output = target_dict.get(video_id, "No description available.")
-        dataset.append({"prompt": prompt, "output": output})
+        dataset.append({"video_id": video_id, "prompt": prompt, "output": output})
 
     with open(output_path, "w") as f:
-        json.dump(dataset, f, indent=2)
-
+        json.dump(dataset, f, indent = 2)
 
 
 if __name__ == "__main__":
+    data_folder = "data/original_data"
     frame_folder = "high_risk_frames"
     keyword_folder = "keywords"
 
-    build_finetune_dataset(frame_folder, f"{frame_folder}/target_text.json", keyword_folder,
-                           f"{frame_folder}/finetune_dataset.json")
+    build_finetune_dataset(frame_folder, f"{data_folder}/target_text.json", keyword_folder,
+                           f"{data_folder}/finetune_train_dataset_original.json")
 
-
+    build_finetune_dataset(frame_folder, f"{data_folder}/target_text.json", keyword_folder,
+                           f"{data_folder}/finetune_test_dataset.json", test = True)
