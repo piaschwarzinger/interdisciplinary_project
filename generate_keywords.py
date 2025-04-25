@@ -6,82 +6,31 @@ import os
 def generate_rula_keywords(scores):
     keywords = {}
 
-    # --- Upper arm LEFT ---
+    # --- Upper arm ---
+
     main = ""
-    if scores['upper_arm_left'] == 3:
+    if scores['upper_arm'] == 3:
         main = f"moderately above shoulder level (increased strain on shoulder joint)"
-    elif scores['upper_arm_left'] == 4:
+    elif scores['upper_arm'] == 4:
         main = f"far above shoulder level (overhead work; high shoulder load)"
 
     mods = []
-    if scores['shoulder_elevated_left'] == 1:
-        mods.append("left shoulder elevated (Trapezius strain; muscle fatigue)")
-    if scores['arm_abducted_left'] == 1:
+    if scores['arm_abducted'] == 1:
         mods.append(f"abducted (Rotator cuff stress; joint instability)")
 
     if main:
         if mods:
             main += ", with " + " and ".join(mods)
-        keywords['upper_arm_left'] = main
+        keywords['upper_arm'] = main
     else:
-        keywords['upper_arm_left'] = " and ".join(mods)
+        keywords['upper_arm'] = " and ".join(mods)
 
-    # --- Upper arm RIGHT ---
+    # --- Lower arm ---
     main = ""
-    if scores['upper_arm_right'] == 3:
-        main = f"moderately above shoulder level (increased strain on shoulder joint)"
-    elif scores['upper_arm_right'] == 4:
-        main = f" far above shoulder level (overhead work; high shoulder load)"
-
-    mods = []
-    if scores['shoulder_elevated_right'] == 1:
-        mods.append("right shoulder elevated (Trapezius strain; muscle fatigue)")
-    if scores['arm_abducted_right'] == 1:
-        mods.append(f"abducted (Rotator cuff stress; joint instability)")
-
-    if main:
-        if mods:
-            main += ", with " + " and ".join(mods)
-        keywords['upper_arm_right'] = main
-    else:
-        keywords['upper_arm_right'] = " and ".join(mods)
-
-    # --- Forearm LEFT ---
-    main = ""
-    if scores['forearm_left'] == 2:
+    if scores['lower_arm'] == 2:
         main = f"too extended or overly flexed (fatigue if sustained)"
 
-    mods = []
-    if scores['crossed_midline_left'] == 1:
-        mods.append(f"working across the midline of the torso (strain in the shoulder and upper back)")
-    if scores['rotated_outwards_left'] == 1:
-        mods.append(f"rotated away from the body (rotational stress on the elbow and forearm muscles)")
-
-    if main:
-        if mods:
-            main += ", with " + " and ".join(mods)
-        keywords['forearm_left'] = main
-    else:
-        keywords['forearm_left'] = " and ".join(mods)
-
-    # --- Forearm RIGHT ---
-    main = ""
-
-    if scores['forearm_right'] == 2:
-        main = f"too extended or overly flexed (fatigue if sustained)"
-
-    mods = []
-    if scores['crossed_midline_right'] == 1:
-        mods.append(f"working across the midline of the torso (strain in the shoulder and upper back)")
-    if scores['rotated_outwards_right'] == 1:
-        mods.append(f"rotated away from the body (rotational stress on the elbow and forearm muscles)")
-
-    if main:
-        if mods:
-            main += ", with " + " and ".join(mods)
-        keywords['forearm_right'] = main
-    else:
-        keywords['forearm_right'] = " and ".join(mods)
+    keywords['lower_arm'] = main
 
     # --- Neck ---
     main = ""
@@ -92,8 +41,6 @@ def generate_rula_keywords(scores):
         main = f"neck extension (increasing cervical spine stress)"
 
     mods = []
-    if scores['neck_rotated'] == 1:
-        mods.append(f"rotated (leading to torsional strain)")
     if scores['neck_tilted'] == 1:
         mods.append(f"side-bent (causing muscle imbalance and fatigue)")
 
@@ -124,6 +71,13 @@ def generate_rula_keywords(scores):
         keywords['trunk'] = main
     else:
         keywords['trunk'] = " and ".join(mods)
+
+    # --- Lower arm ---
+    main = ""
+    if scores['legs'] == 2:
+        main = f"standing on one leg (asymmetric load on lower body)"
+
+    keywords['legs'] = main
 
     return keywords
 
@@ -164,7 +118,7 @@ def suppress_repeated_keywords(df):
 
 
 def process_single_keyword_csv(csv_path, output_folder):
-    df = pd.read_csv(csv_path, sep = ";", encoding = "utf-8-sig", index_col = 0)
+    df = pd.read_csv(csv_path, sep = ",", encoding = "utf-8-sig", index_col = 0)
 
     keywords_df = extract_keywords_over_time(df)
     keywords_df = suppress_repeated_keywords(keywords_df)
@@ -180,4 +134,6 @@ if __name__ == "__main__":
     os.makedirs(output_folder, exist_ok = True)
 
     for csv_path in Path(input_folder).glob("*.csv"):
+        if csv_path.name == "rula_rule_counts.csv":
+            continue
         process_single_keyword_csv(csv_path, output_folder)
