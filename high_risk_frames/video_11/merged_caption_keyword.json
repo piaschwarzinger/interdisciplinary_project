@@ -1,0 +1,31 @@
+[
+  {
+    "caption": "there is a man that is sitting at a desk with a laptop",
+    "body_parts": [
+      {
+        "body_part": "upper_arm",
+        "keywords": [
+          "moderately above shoulder level (increased strain on shoulder joint)"
+        ]
+      },
+      {
+        "body_part": "lower_arm",
+        "keywords": [
+          "too extended or overly flexed (fatigue if sustained)"
+        ]
+      },
+      {
+        "body_part": "neck",
+        "keywords": [
+          "neck extension (increasing cervical spine stress)"
+        ]
+      },
+      {
+        "body_part": "legs",
+        "keywords": [
+          "standing on one leg (asymmetric load on lower body)"
+        ]
+      }
+    ]
+  }
+]

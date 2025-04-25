@@ -1,0 +1,22 @@
+[
+  {
+    "image": "frame_00_upper_arm_10s.jpg",
+    "caption": "there is a man that is sitting at a desk in an office"
+  },
+  {
+    "image": "frame_01_lower_arm_10s.jpg",
+    "caption": "there is a man that is sitting at a desk in an office"
+  },
+  {
+    "image": "frame_02_neck_5s.jpg",
+    "caption": "there is a man that is sitting at a table in a room"
+  },
+  {
+    "image": "frame_03_trunk_15s.jpg",
+    "caption": "there is a man that is sitting at a desk in an office"
+  },
+  {
+    "image": "frame_04_legs_0s.jpg",
+    "caption": "there is a man that is sitting at a desk with a laptop"
+  }
+]

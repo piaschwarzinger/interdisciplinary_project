@@ -1,0 +1,30 @@
+[
+  {
+    "caption": "there is a man that is kneeling down in a room with boxes",
+    "body_parts": [
+      {
+        "body_part": "trunk",
+        "keywords": [
+          "severely bent forward (high risk of lower back strain)"
+        ]
+      },
+      {
+        "body_part": "legs",
+        "keywords": [
+          "standing on one leg (asymmetric load on lower body)"
+        ]
+      }
+    ]
+  },
+  {
+    "caption": "there is a man that is standing on a skateboard in a room",
+    "body_parts": [
+      {
+        "body_part": "trunk",
+        "keywords": [
+          "bent forward 20 to 60 degrees (causing increased spinal loading)"
+        ]
+      }
+    ]
+  }
+]

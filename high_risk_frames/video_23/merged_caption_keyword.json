@@ -1,0 +1,19 @@
+[
+  {
+    "caption": "there is a man that is sitting at a desk with a laptop",
+    "body_parts": [
+      {
+        "body_part": "trunk",
+        "keywords": [
+          "bent forward 20 to 60 degrees (causing increased spinal loading)"
+        ]
+      },
+      {
+        "body_part": "legs",
+        "keywords": [
+          "standing on one leg (asymmetric load on lower body)"
+        ]
+      }
+    ]
+  }
+]

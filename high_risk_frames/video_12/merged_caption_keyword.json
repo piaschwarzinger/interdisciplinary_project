@@ -1,0 +1,37 @@
+[
+  {
+    "caption": "there is a man that is standing in front of a desk with a laptop",
+    "body_parts": [
+      {
+        "body_part": "upper_arm",
+        "keywords": [
+          "Acceptable conditions, no need for further measures"
+        ]
+      },
+      {
+        "body_part": "lower_arm",
+        "keywords": [
+          "Acceptable conditions, no need for further measures"
+        ]
+      },
+      {
+        "body_part": "neck",
+        "keywords": [
+          "Acceptable conditions, no need for further measures"
+        ]
+      },
+      {
+        "body_part": "trunk",
+        "keywords": [
+          "Acceptable conditions, no need for further measures"
+        ]
+      },
+      {
+        "body_part": "legs",
+        "keywords": [
+          "Acceptable conditions, no need for further measures"
+        ]
+      }
+    ]
+  }
+]
