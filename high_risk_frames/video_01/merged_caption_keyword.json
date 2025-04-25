@@ -1,0 +1,54 @@
+[
+  {
+    "caption": "there is a woman that is sitting at a table with some tools",
+    "body_parts": [
+      {
+        "body_part": "upper_arm",
+        "keywords": [
+          "moderately above shoulder level (increased strain on shoulder joint)"
+        ]
+      },
+      {
+        "body_part": "neck",
+        "keywords": [
+          "side-bent (causing muscle imbalance",
+          "fatigue)"
+        ]
+      },
+      {
+        "body_part": "trunk",
+        "keywords": [
+          "bent forward 20 to 60 degrees (causing increased spinal loading)"
+        ]
+      }
+    ]
+  },
+  {
+    "caption": "there is a man that is sitting at a table with a coffee maker",
+    "body_parts": [
+      {
+        "body_part": "lower_arm",
+        "keywords": [
+          "too extended or overly flexed (fatigue if sustained)"
+        ]
+      },
+      {
+        "body_part": "legs",
+        "keywords": [
+          "standing on one leg (asymmetric load on lower body)"
+        ]
+      }
+    ]
+  },
+  {
+    "caption": "there is a man that is sitting at a table with tools on it",
+    "body_parts": [
+      {
+        "body_part": "trunk",
+        "keywords": [
+          "severely bent forward (high risk of lower back strain)"
+        ]
+      }
+    ]
+  }
+]

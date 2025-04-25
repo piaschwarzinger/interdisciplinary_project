@@ -1,0 +1,30 @@
+[
+  {
+    "caption": "there is a man that is sitting at a table working on something",
+    "body_parts": [
+      {
+        "body_part": "lower_arm",
+        "keywords": [
+          "too extended or overly flexed (fatigue if sustained)"
+        ]
+      },
+      {
+        "body_part": "legs",
+        "keywords": [
+          "standing on one leg (asymmetric load on lower body)"
+        ]
+      }
+    ]
+  },
+  {
+    "caption": "there is a man that is sitting at a table with some scissors",
+    "body_parts": [
+      {
+        "body_part": "neck",
+        "keywords": [
+          "neck extension (increasing cervical spine stress)"
+        ]
+      }
+    ]
+  }
+]

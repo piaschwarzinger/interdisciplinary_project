@@ -1,0 +1,35 @@
+[
+  {
+    "caption": "there is a man that is standing in a room with boxes on the floor",
+    "body_parts": [
+      {
+        "body_part": "neck",
+        "keywords": [
+          "neck extension (increasing cervical spine stress)"
+        ]
+      }
+    ]
+  },
+  {
+    "caption": "there is a room with a lot of boxes on the floor and a man standing in the doorway",
+    "body_parts": [
+      {
+        "body_part": "trunk",
+        "keywords": [
+          "bent forward 20 to 60 degrees (causing increased spinal loading)"
+        ]
+      }
+    ]
+  },
+  {
+    "caption": "there is a man that is kneeling down in a room with many boxes",
+    "body_parts": [
+      {
+        "body_part": "legs",
+        "keywords": [
+          "standing on one leg (asymmetric load on lower body)"
+        ]
+      }
+    ]
+  }
+]
