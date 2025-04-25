@@ -1,0 +1,17 @@
+[
+  {
+    "video_id": "video_11",
+    "prompt": "Caption: there is a man that is sitting at a desk with a laptop.\nBody part: upper arm. Risk factors: moderately above shoulder level (increased strain on shoulder joint).\nBody part: lower arm. Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: neck. Risk factors: neck extension (increasing cervical spine stress).\nBody part: legs. Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output": "A man is seated at a desk working on a laptop. His upper arms are positioned moderately above shoulder level, increasing strain on the shoulder joints. His lower arms are either too extended or overly flexed, which may lead to fatigue over time. His neck is extended, placing additional stress on the cervical spine, and he is also standing on one leg, introducing an asymmetric load on the lower body that could affect balance and posture."
+  },
+  {
+    "video_id": "video_12",
+    "prompt": "Caption: there is a man that is standing in front of a desk with a laptop.\nBody part: upper arm. Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm. Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck. Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk. Risk factors: Acceptable conditions, no need for further measures.\nBody part: legs. Risk factors: Acceptable conditions, no need for further measures.",
+    "output": "Standing in front of a desk with a laptop, the man maintains a well-aligned and ergonomically neutral posture. His upper arms, lower arms, neck, trunk, and legs are all positioned within acceptable ranges, and no immediate ergonomic risks are identified."
+  },
+  {
+    "video_id": "video_13",
+    "prompt": "Caption: there is a man that is sitting at a desk in front of a computer.\nBody part: trunk. Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).",
+    "output": "While seated at a desk in front of a computer, the man\u2019s trunk bends forward between 20 and 60 degrees, a posture known to increase spinal loading and elevate the risk of lower back strain over time."
+  }
+]

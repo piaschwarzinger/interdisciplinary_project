@@ -1,0 +1,102 @@
+[
+  {
+    "video_id": "video_01",
+    "prompt": "Caption: there is a woman that is sitting at a table with some tools.\nBody part: upper arm. Risk factors: moderately above shoulder level (increased strain on shoulder joint).\nBody part: neck. Risk factors: side-bent (causing muscle imbalance; fatigue).\nBody part: trunk. Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).\nCaption: there is a man that is sitting at a table with a coffee maker.\nBody part: lower arm. Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: legs. Risk factors: standing on one leg (asymmetric load on lower body).\nCaption: there is a man that is sitting at a table with tools on it.",
+    "output": "A man is seated at a table with some tools, where his upper arm is positioned moderately above shoulder level, increasing strain on the shoulder joint. His neck is side-bent, leading to muscle imbalance and fatigue, while his trunk is bent forward between 20 and 60 degrees, causing increased spinal loading. Furthermore, his lower arm appears too extended or overly flexed, which can result in fatigue if maintained for prolonged periods. Additionally, he is standing on one leg, creating an asymmetric load on the lower body."
+  },
+  {
+    "video_id": "video_02",
+    "prompt": "Caption: there is a man that is sitting at a table working on something.\nBody part: lower arm. Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: legs. Risk factors: standing on one leg (asymmetric load on lower body).\nCaption: there is a man that is sitting at a table with some scissors.\nBody part: neck. Risk factors: neck extension (increasing cervical spine stress).",
+    "output": "A man is seated at a table working on a task. His lower arms are either too extended or overly flexed, a posture that can lead to muscle fatigue over time. Additionally, he is standing on one leg, introducing an asymmetric load to his lower body that may cause imbalance and discomfort. His neck is extended as he leans forward to focus on his work, increasing stress on the cervical spine."
+  },
+  {
+    "video_id": "video_03",
+    "prompt": "Caption: there is a woman that is sitting at a desk in an office.\nBody part: upper arm. Risk factors: moderately above shoulder level (increased strain on shoulder joint).\nCaption: there is a man that is sitting at a desk in a room.\nBody part: lower arm. Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: legs. Risk factors: standing on one leg (asymmetric load on lower body).\nCaption: there is a man that is sitting at a table in a room.\nBody part: neck. Risk factors: neck extension (increasing cervical spine stress).",
+    "output": "A woman is seated at a desk in an office, engaged in her work. Her upper arm is held moderately above shoulder level, increasing strain on the shoulder joint. Her lower arms show postures that are either too extended or overly flexed, which can lead to muscular fatigue if sustained. She is also observed standing on one leg, creating an asymmetric load on the lower body. Additionally, her neck is extended, contributing to increased stress on the cervical spine."
+  },
+  {
+    "video_id": "video_04",
+    "prompt": "Caption: there is a man that is standing on a table in a room.\nBody part: upper arm. Risk factors: far above shoulder level (overhead work; high shoulder load), with abducted (Rotator cuff stress; joint instability).\nBody part: trunk. Risk factors: rotated (increasing torsional load on the spine).\nCaption: there is a man that is working on a table in a room.",
+    "output": "A man is seen standing on a table in a room, performing overhead tasks. His upper arm is raised far above shoulder level and abducted, placing significant stress on the shoulder joint and increasing the risk of rotator cuff instability. Additionally, his trunk is rotated, which elevates torsional load on the spine and heightens the risk of back strain."
+  },
+  {
+    "video_id": "video_05",
+    "prompt": "Caption: this is an image of a room with a lot of boxes on the floor.\nBody part: trunk. Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).",
+    "output": "The scene depicts a room filled with boxes scattered across the floor. A man within the environment is bent forward between 20 and 60 degrees, a posture that notably increases spinal loading and can contribute to lower back strain over time."
+  },
+  {
+    "video_id": "video_06",
+    "prompt": "Caption: there is a man that is standing in a room with boxes on the floor.\nBody part: neck. Risk factors: neck extension (increasing cervical spine stress).\nCaption: there is a room with a lot of boxes on the floor and a man standing in the doorway.\nBody part: trunk. Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).\nCaption: there is a man that is kneeling down in a room with many boxes.\nBody part: legs. Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output": "In a cluttered room filled with boxes, a man is seen standing with his neck extended, a posture that increases stress on the cervical spine. In another scene, he is positioned in a doorway while his trunk bends forward between 20 and 60 degrees, contributing to increased spinal loading and potential lower back strain. Additionally, when kneeling among the boxes, he is observed standing on one leg, creating an asymmetric load that can lead to imbalance and discomfort."
+  },
+  {
+    "video_id": "video_07",
+    "prompt": "Caption: there is a man that is working on a table in a room.\nBody part: trunk. Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading), with rotated (increasing torsional load on the spine).\nCaption: there is a man that is standing in a room with boxes on the floor.",
+    "output": "A man is working on a table in a room, maintaining a posture where his trunk is bent forward between 20 and 60 degrees and rotated, significantly increasing torsional load on the spine and the risk of lower back fatigue. In the surrounding environment filled with boxes, he continues his tasks, sustaining these non-neutral postures that can exacerbate ergonomic strain."
+  },
+  {
+    "video_id": "video_08",
+    "prompt": "Caption: there is a man that is kneeling down in a room.\nBody part: trunk. Risk factors: severely bent forward (high risk of lower back strain).\nBody part: legs. Risk factors: standing on one leg (asymmetric load on lower body).\nCaption: there is a man that is standing on a skateboard in a room.",
+    "output": "While kneeling in a room, the man\u2019s trunk is severely bent forward, placing him at high risk of lower back strain. At the same time, he is balancing his weight on one leg, introducing asymmetric loading on the lower body. In another scene, he stands on a skateboard, further challenging his balance and stability in an already cluttered space."
+  },
+  {
+    "video_id": "video_09",
+    "prompt": "Caption: there is a man that is sitting at a desk with a laptop.\nBody part: trunk. Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).",
+    "output": "Seated at a desk working on a laptop, the man is observed with his trunk bent forward between 20 and 60 degrees. This posture increases spinal loading and places added strain on the lower back, highlighting the ergonomic risks associated with prolonged seated work without adequate support or posture correction."
+  },
+  {
+    "video_id": "video_10",
+    "prompt": "Caption: there is a man that is sitting at a desk with a laptop.\nBody part: neck. Risk factors: neck extension (increasing cervical spine stress).",
+    "output": "A man is seated at a desk working on a laptop. His neck is extended, a posture that increases stress on the cervical spine and may lead to discomfort or fatigue if sustained over time."
+  },
+  {
+    "video_id": "video_14",
+    "prompt": "Caption: there is a man that is sitting at a table working on something.\nBody part: lower arm. Risk factors: too extended or overly flexed (fatigue if sustained).\nCaption: there is a woman that is sitting at a table with some tools.\nBody part: neck. Risk factors: side-bent (causing muscle imbalance; fatigue).\nBody part: trunk. Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).\nCaption: there is a man that is sitting at a table with a coffee maker.\nBody part: legs. Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output": "A man is seated at a table working on something, with his lower arms either overly extended or flexed, posing a risk of muscle fatigue. His neck is side-bent, contributing to muscle imbalance and fatigue, while his trunk is bent forward between 20 and 60 degrees, increasing spinal loading. He is also standing on one leg, which introduces an asymmetric load on the lower body."
+  },
+  {
+    "video_id": "video_15",
+    "prompt": "Caption: there is a man that is sitting at a table working on something.\nBody part: upper arm. Risk factors: moderately above shoulder level (increased strain on shoulder joint).\nBody part: trunk. Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).",
+    "output": "While seated at a table and working, the man's upper arm is positioned moderately above shoulder level, increasing strain on the shoulder joint. His trunk is also bent forward between 20 and 60 degrees, adding spinal loading and potential risk of lower back discomfort."
+  },
+  {
+    "video_id": "video_16",
+    "prompt": "Caption: there is a man that is sitting at a desk in an office.\nBody part: upper arm. Risk factors: moderately above shoulder level (increased strain on shoulder joint).\nBody part: lower arm. Risk factors: too extended or overly flexed (fatigue if sustained).\nBody part: trunk. Risk factors: rotated (increasing torsional load on the spine).\nCaption: there is a man that is sitting at a table in a room.\nBody part: neck. Risk factors: neck extension (increasing cervical spine stress).\nCaption: there is a man that is sitting at a desk with a laptop.\nBody part: legs. Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output": "In an office setting, a man is seated with his upper arm held moderately above shoulder level, placing strain on the shoulder joint. His lower arms are either too extended or overly flexed, which may lead to fatigue, and his trunk is rotated, increasing torsional stress on the spine. In a separate scene, he sits at a table with his neck extended, placing additional load on the cervical spine. Finally, while seated at a desk with a laptop, he is observed standing on one leg, introducing an asymmetric load on the lower body."
+  },
+  {
+    "video_id": "video_17",
+    "prompt": "Caption: there is a man that is working on a table in a room.\nBody part: upper arm. Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm. Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck. Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk. Risk factors: Acceptable conditions, no need for further measures.\nBody part: legs. Risk factors: Acceptable conditions, no need for further measures.",
+    "output": "A man is seen working at a table in a room. All observed body parts\u2014including the upper arm, lower arm, neck, trunk, and legs\u2014are in neutral and acceptable ergonomic conditions. No immediate interventions are necessary."
+  },
+  {
+    "video_id": "video_18",
+    "prompt": "Caption: this is an image of a room with a lot of boxes on the floor.\nBody part: upper arm. Risk factors: Acceptable conditions, no need for further measures.\nBody part: lower arm. Risk factors: Acceptable conditions, no need for further measures.\nBody part: neck. Risk factors: Acceptable conditions, no need for further measures.\nBody part: trunk. Risk factors: Acceptable conditions, no need for further measures.\nBody part: legs. Risk factors: Acceptable conditions, no need for further measures.",
+    "output": "The scene shows a room filled with boxes on the floor. The individual present maintains an ergonomically sound posture\u2014his upper arms, lower arms, neck, trunk, and legs are all in acceptable conditions, indicating no significant ergonomic risk."
+  },
+  {
+    "video_id": "video_19",
+    "prompt": "Caption: there is a man that is standing in a room with a lot of boxes.\nBody part: neck. Risk factors: neck extension (increasing cervical spine stress).\nCaption: this is an image of a room with a lot of boxes on the floor and a man standing in the doorway.\nBody part: trunk. Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).\nCaption: there is a man that is kneeling down working on a machine.\nBody part: legs. Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output": "In a room cluttered with boxes, a man is seen with his neck extended, a position that increases stress on the cervical spine. In another scene, he stands in a doorway with his trunk bent forward between 20 and 60 degrees, a posture that significantly raises spinal loading. Later, while kneeling and working on a machine, he is observed standing on one leg, resulting in asymmetric loading on the lower body and potential imbalance."
+  },
+  {
+    "video_id": "video_20",
+    "prompt": "Caption: there is a man that is working on a table in a room.\nBody part: trunk. Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).",
+    "output": "While working on a table in a room, the man\u2019s trunk is bent forward between 20 and 60 degrees. This posture increases spinal compression and may lead to lower back strain, especially if maintained for extended periods."
+  },
+  {
+    "video_id": "video_21",
+    "prompt": "Caption: there is a man that is kneeling down in a room with boxes.\nBody part: trunk. Risk factors: severely bent forward (high risk of lower back strain).\nBody part: legs. Risk factors: standing on one leg (asymmetric load on lower body).\nCaption: there is a man that is standing on a skateboard in a room.",
+    "output": "While kneeling in a room with boxes, the man\u2019s trunk is severely bent forward, placing him at high risk of lower back strain. He is also seen standing on one leg, creating an asymmetric load on the lower body. In another scene, he balances on a skateboard, further challenging his stability and postural control."
+  },
+  {
+    "video_id": "video_22",
+    "prompt": "Caption: there is a man that is sitting at a desk with a laptop in front of him.\nBody part: neck. Risk factors: neck extension (increasing cervical spine stress).",
+    "output": "A man is seated at a desk with a laptop in front of him. His neck is extended, a posture that increases stress on the cervical spine and may lead to discomfort or fatigue during prolonged periods of computer use."
+  },
+  {
+    "video_id": "video_23",
+    "prompt": "Caption: there is a man that is sitting at a desk with a laptop.\nBody part: trunk. Risk factors: bent forward 20 to 60 degrees (causing increased spinal loading).\nBody part: legs. Risk factors: standing on one leg (asymmetric load on lower body).",
+    "output": "While seated at a desk using a laptop, the man\u2019s trunk is bent forward between 20 and 60 degrees, increasing spinal loading and risk of lower back strain. He is also standing on one leg, introducing an asymmetric load to the lower body that can affect balance and cause additional strain over time."
+  }
+]

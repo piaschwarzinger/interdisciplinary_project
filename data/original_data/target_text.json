@@ -1,94 +1,94 @@
 [
   {
     "video_id": "video_01",
-    "target_text": "Seated at a table, the man appears to be focused on a task involving fine motor skills. His right upper arm stays elevated above shoulder level at times, placing stress on the joint. Meanwhile, both forearms adopt non-neutral positions, either overextended or overly flexed, suggesting muscular tension from sustained or precise hand activity."
-  },
+    "target_text": "A man is seated at a table with some tools, where his upper arm is positioned moderately above shoulder level, increasing strain on the shoulder joint. His neck is side-bent, leading to muscle imbalance and fatigue, while his trunk is bent forward between 20 and 60 degrees, causing increased spinal loading. Furthermore, his lower arm appears too extended or overly flexed, which can result in fatigue if maintained for prolonged periods. Additionally, he is standing on one leg, creating an asymmetric load on the lower body."
+ },
   {
     "video_id": "video_02",
-    "target_text": "A man is engaged in tabletop work. His right upper arm rises above shoulder height, creating excess load on that joint. Both forearms are also seen in awkward postures, increasing the likelihood of arm fatigue."
-  },
+    "target_text": "A man is seated at a table working on a task. His lower arms are either too extended or overly flexed, a posture that can lead to muscle fatigue over time. Additionally, he is standing on one leg, introducing an asymmetric load to his lower body that may cause imbalance and discomfort. His neck is extended as he leans forward to focus on his work, increasing stress on the cervical spine."
+ },
   {
     "video_id": "video_03",
-    "target_text": "During a desk task, the individual frequently lifts his right upper arm above the shoulder, often abducting it and elevating the shoulder, which indicates substantial upper body strain. His forearms fluctuate between extended and flexed states, potentially inducing joint stress."
+    "target_text": "A woman is seated at a desk in an office, engaged in her work. Her upper arm is held moderately above shoulder level, increasing strain on the shoulder joint. Her lower arms show postures that are either too extended or overly flexed, which can lead to muscular fatigue if sustained. She is also observed standing on one leg, creating an asymmetric load on the lower body. Additionally, her neck is extended, contributing to increased stress on the cervical spine."
   },
   {
     "video_id": "video_04",
-    "target_text": "Captured while standing and working, the man’s posture reveals significant neck flexion, as if looking down for extended periods. His torso also exhibits a combination of bending, twisting, and tilting, placing considerable load on the spine and back muscles."
+    "target_text": "A man is seen standing on a table in a room, performing overhead tasks. His upper arm is raised far above shoulder level and abducted, placing significant stress on the shoulder joint and increasing the risk of rotator cuff instability. Additionally, his trunk is rotated, which elevates torsional load on the spine and heightens the risk of back strain."
   },
   {
     "video_id": "video_05",
-    "target_text": "The footage shows a man standing and shifting positions in a room. His torso remains tilted sideways, with occasional rotation, potentially overloading one side of the back and promoting muscle fatigue."
-  },
+    "target_text": "The scene depicts a room filled with boxes scattered across the floor. A man within the environment is bent forward between 20 and 60 degrees, a posture that notably increases spinal loading and can contribute to lower back strain over time."
+ },
   {
     "video_id": "video_06",
-    "target_text": "Amidst a cluttered environment, the man is leaning forward while performing a task. His trunk is bent between 20 to 60 degrees, a posture known to increase spinal compression and lower back strain."
+    "target_text": "In a cluttered room filled with boxes, a man is seen standing with his neck extended, a posture that increases stress on the cervical spine. In another scene, he is positioned in a doorway while his trunk bends forward between 20 and 60 degrees, contributing to increased spinal loading and potential lower back strain. Additionally, when kneeling among the boxes, he is observed standing on one leg, creating an asymmetric load that can lead to imbalance and discomfort."
   },
   {
     "video_id": "video_07",
-    "target_text": "Leaning over a table, the man maintains both arms in elevated positions, which heightens shoulder strain. His trunk posture, featuring forward bending and lateral tilt with rotation, signals high spinal loading and potential lower back fatigue."
+    "target_text": "A man is working on a table in a room, maintaining a posture where his trunk is bent forward between 20 and 60 degrees and rotated, significantly increasing torsional load on the spine and the risk of lower back fatigue. In the surrounding environment filled with boxes, he continues his tasks, sustaining these non-neutral postures that can exacerbate ergonomic strain."
   },
   {
     "video_id": "video_08",
-    "target_text": "While kneeling, the man lifts his left arm above shoulder height, and his torso leans forward between 20 and 60 degrees. These postures contribute to increased mechanical stress on both the shoulder and the spine."
+    "target_text": "While kneeling in a room, the man’s trunk is severely bent forward, placing him at high risk of lower back strain. At the same time, he is balancing his weight on one leg, introducing asymmetric loading on the lower body. In another scene, he stands on a skateboard, further challenging his balance and stability in an already cluttered space."
   },
   {
     "video_id": "video_09",
-    "target_text": "Working at a desk with a laptop, the individual exhibits raised arms and elevated shoulders, which stress the upper back and neck. Additionally, his trunk is bent forward and the forearms adopt suboptimal postures, raising ergonomic concerns."
+    "target_text": "Seated at a desk working on a laptop, the man is observed with his trunk bent forward between 20 and 60 degrees. This posture increases spinal loading and places added strain on the lower back, highlighting the ergonomic risks associated with prolonged seated work without adequate support or posture correction."
   },
   {
     "video_id": "video_10",
-    "target_text": "This recording shows a man seated comfortably at a laptop. All observed body parts are in neutral, ergonomically acceptable positions, and no physical risks are apparent."
+    "target_text": "A man is seated at a desk working on a laptop. His neck is extended, a posture that increases stress on the cervical spine and may lead to discomfort or fatigue if sustained over time."
   },
   {
     "video_id": "video_11",
-    "target_text": "At his desk, the man is seated with both upper arms lifted above shoulder height and shoulders elevated and abducted, causing significant load on the trapezius and rotator cuff muscles. His forearms are poorly positioned, and the neck is extended, posing further ergonomic issues."
-  },
+    "target_text": "A man is seated at a desk working on a laptop. His upper arms are positioned moderately above shoulder level, increasing strain on the shoulder joints. His lower arms are either too extended or overly flexed, which may lead to fatigue over time. His neck is extended, placing additional stress on the cervical spine, and he is also standing on one leg, introducing an asymmetric load on the lower body that could affect balance and posture."
+ },
   {
     "video_id": "video_12",
-    "target_text": "Seen standing at a desk, the man’s posture reflects a well-aligned ergonomic position. The arms, trunk, and neck all appear balanced, with no notable risk factors present."
+    "target_text": "Standing in front of a desk with a laptop, the man maintains a well-aligned and ergonomically neutral posture. His upper arms, lower arms, neck, trunk, and legs are all positioned within acceptable ranges, and no immediate ergonomic risks are identified."
   },
   {
     "video_id": "video_13",
-    "target_text": "While using a computer, the man’s head and upper back lean forward prominently. This posture imposes stress on both the cervical spine and the lower back."
-  },
+    "target_text": "While seated at a desk in front of a computer, the man’s trunk bends forward between 20 and 60 degrees, a posture known to increase spinal loading and elevate the risk of lower back strain over time."
+ },
   {
     "video_id": "video_14",
-    "target_text": "As he works at a table, the man demonstrates poor postural alignment. His forearms are overextended or overly bent, the neck shows multiple angles of strain, and the trunk is simultaneously bent, rotated, and tilted—creating cumulative ergonomic stress."
+    "target_text": "A man is seated at a table working on something, with his lower arms either overly extended or flexed, posing a risk of muscle fatigue. His neck is side-bent, contributing to muscle imbalance and fatigue, while his trunk is bent forward between 20 and 60 degrees, increasing spinal loading. He is also standing on one leg, which introduces an asymmetric load on the lower body."
   },
   {
     "video_id": "video_15",
-    "target_text": "Positioned at a table, the man’s left upper arm is notably elevated and abducted, indicating significant shoulder strain. Both forearms also appear to be in extended or flexed positions, which may lead to muscular fatigue over time."
-  },
+    "target_text": "While seated at a table and working, the man's upper arm is positioned moderately above shoulder level, increasing strain on the shoulder joint. His trunk is also bent forward between 20 and 60 degrees, adding spinal loading and potential risk of lower back discomfort."
+ },
   {
     "video_id": "video_16",
-    "target_text": "While seated in an office setting, the man raises his left arm far above shoulder level with additional elevation and abduction. These combined movements suggest high physical demand, complemented by forearm positions that are not ergonomically neutral."
+    "target_text": "In an office setting, a man is seated with his upper arm held moderately above shoulder level, placing strain on the shoulder joint. His lower arms are either too extended or overly flexed, which may lead to fatigue, and his trunk is rotated, increasing torsional stress on the spine. In a separate scene, he sits at a table with his neck extended, placing additional load on the cervical spine. Finally, while seated at a desk with a laptop, he is observed standing on one leg, introducing an asymmetric load on the lower body."
   },
   {
     "video_id": "video_17",
-    "target_text": "This footage shows a man standing over a table while deeply focused on a task. His neck is flexed downward, increasing cervical spine strain, and the trunk is bent significantly forward, contributing to potential lower back issues."
+    "target_text": "A man is seen working at a table in a room. All observed body parts—including the upper arm, lower arm, neck, trunk, and legs—are in neutral and acceptable ergonomic conditions. No immediate interventions are necessary."
   },
   {
     "video_id": "video_18",
-    "target_text": "Surrounded by boxes, the man stands with a sideways-tilted torso. This misalignment can cause muscular imbalance and fatigue, especially during repetitive actions."
+    "target_text": "The scene shows a room filled with boxes on the floor. The individual present maintains an ergonomically sound posture—his upper arms, lower arms, neck, trunk, and legs are all in acceptable conditions, indicating no significant ergonomic risk."
   },
   {
     "video_id": "video_19",
-    "target_text": "Amid boxes on the floor, the man adopts a bent-over stance with his trunk angled between 20 to 60 degrees. This forward-leaning position puts notable strain on the lower back and spine."
+    "target_text":  "In a room cluttered with boxes, a man is seen with his neck extended, a position that increases stress on the cervical spine. In another scene, he stands in a doorway with his trunk bent forward between 20 and 60 degrees, a posture that significantly raises spinal loading. Later, while kneeling and working on a machine, he is observed standing on one leg, resulting in asymmetric loading on the lower body and potential imbalance."
   },
   {
     "video_id": "video_20",
-    "target_text": "Engaged in work at a table and later standing nearby, the man raises both arms above shoulder height, introducing shoulder joint stress. His trunk is severely flexed and rotated, forming a posture that elevates the risk of back strain."
+    "target_text": "While working on a table in a room, the man’s trunk is bent forward between 20 and 60 degrees. This posture increases spinal compression and may lead to lower back strain, especially if maintained for extended periods."
   },
   {
     "video_id": "video_21",
-    "target_text": "Kneeling amidst boxes, the man’s right arm is elevated above shoulder level while his trunk leans forward. This posture combination increases load on both the shoulder and the lower back."
+    "target_text": "While kneeling in a room with boxes, the man’s trunk is severely bent forward, placing him at high risk of lower back strain. He is also seen standing on one leg, creating an asymmetric load on the lower body. In another scene, he balances on a skateboard, further challenging his stability and postural control."
   },
   {
     "video_id": "video_22",
-    "target_text": "Here, a man sits at a desk using a laptop, with all observed body segments in a neutral and ergonomic posture. No intervention is necessary."
-  },
+    "target_text": "A man is seated at a desk with a laptop in front of him. His neck is extended, a posture that increases stress on the cervical spine and may lead to discomfort or fatigue during prolonged periods of computer use."
+ },
   {
     "video_id": "video_23",
-    "target_text": "While working at a desk, the man’s arms are moderately raised and shoulders elevated, which heightens tension in the upper body. The forearms are not in neutral alignment, and the trunk is bent forward, amplifying the ergonomic risk."
+    "target_text": "While seated at a desk using a laptop, the man’s trunk is bent forward between 20 and 60 degrees, increasing spinal loading and risk of lower back strain. He is also standing on one leg, introducing an asymmetric load to the lower body that can affect balance and cause additional strain over time."
   }
 ]
